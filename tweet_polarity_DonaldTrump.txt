@@ -1,0 +1,6601 @@
+Texas,negative
+California,negative
+Florida,positive
+Florida,negative
+Illinois,positive
+Texas,neutral
+Vermont,negative
+Texas,neutral
+New York,neutral
+New York,neutral
+California,positive
+California,neutral
+Illinois,positive
+California,neutral
+California,neutral
+New Jersey,positive
+Texas,negative
+Massachusetts,positive
+Florida,neutral
+Texas,neutral
+Arizona,neutral
+Michigan,positive
+New York,positive
+New York,neutral
+Iowa,neutral
+Iowa,positive
+Indiana,neutral
+Florida,positive
+Georgia,negative
+Illinois,neutral
+California,negative
+New York,neutral
+New York,neutral
+Michigan,positive
+California,neutral
+Florida,positive
+New York,neutral
+New York,neutral
+Washington,positive
+Idaho,positive
+New York,neutral
+California,positive
+Florida,neutral
+California,negative
+California,neutral
+Arizona,negative
+Florida,positive
+Colorado,neutral
+Hawaii,neutral
+Ohio,negative
+California,neutral
+New Jersey,neutral
+Colorado,neutral
+Colorado,neutral
+Pennsylvania,positive
+California,neutral
+California,neutral
+Texas,negative
+Florida,neutral
+Washington,neutral
+New York,neutral
+Virginia,negative
+New York,neutral
+California,negative
+California,positive
+Virginia,positive
+Nevada,positive
+Arizona,neutral
+New York,neutral
+New York,negative
+Vermont,positive
+Utah,negative
+Utah,positive
+Utah,positive
+Florida,positive
+California,negative
+Massachusetts,negative
+Florida,positive
+New York,negative
+Florida,positive
+Florida,negative
+Washington,negative
+Washington,negative
+Georgia,positive
+Washington,negative
+New Jersey,positive
+California,positive
+Florida,negative
+Oregon,positive
+New York,positive
+Washington,neutral
+Washington,positive
+Minnesota,negative
+Oregon,positive
+California,neutral
+Florida,negative
+Florida,neutral
+Vermont,neutral
+New York,positive
+Tennessee,positive
+Texas,negative
+Texas,negative
+New York,negative
+Florida,negative
+Pennsylvania,negative
+Texas,positive
+Florida,neutral
+California,neutral
+California,negative
+New York,neutral
+California,positive
+New York,neutral
+Florida,positive
+Washington,negative
+California,negative
+South Dakota,neutral
+Arizona,neutral
+California,negative
+Ohio,positive
+North Carolina,neutral
+Florida,positive
+Pennsylvania,neutral
+Maryland,negative
+California,neutral
+New York,positive
+Texas,negative
+South Carolina,neutral
+California,positive
+New York,positive
+Texas,positive
+Georgia,neutral
+Georgia,neutral
+California,neutral
+Michigan,neutral
+Washington,negative
+New York,neutral
+New York,positive
+Oklahoma,negative
+Florida,neutral
+California,neutral
+Hawaii,negative
+Pennsylvania,neutral
+California,neutral
+New York,neutral
+New York,neutral
+Washington,negative
+Florida,positive
+California,neutral
+New Jersey,neutral
+New York,neutral
+Florida,positive
+Washington,positive
+California,positive
+Texas,neutral
+New York,neutral
+Tennessee,negative
+South Carolina,neutral
+New Jersey,neutral
+Washington,negative
+California,negative
+Texas,positive
+New York,neutral
+New York,negative
+Florida,neutral
+New York,positive
+Arizona,negative
+California,neutral
+Hawaii,negative
+New Jersey,positive
+Hawaii,neutral
+New York,positive
+California,neutral
+Washington,positive
+New York,neutral
+California,negative
+New York,positive
+Indiana,positive
+Washington,neutral
+Florida,positive
+North Carolina,neutral
+New York,neutral
+Nevada,negative
+New York,positive
+Nevada,negative
+Colorado,neutral
+California,positive
+California,positive
+Kansas,positive
+New York,neutral
+California,positive
+Pennsylvania,positive
+New York,positive
+Washington,positive
+California,negative
+Florida,neutral
+Maryland,negative
+New York,neutral
+Pennsylvania,positive
+California,negative
+New York,positive
+Washington,positive
+New York,negative
+Vermont,negative
+North Carolina,positive
+California,positive
+California,neutral
+Michigan,neutral
+North Carolina,neutral
+New York,negative
+Florida,neutral
+Colorado,neutral
+California,neutral
+New York,positive
+New York,positive
+Washington,positive
+Oregon,neutral
+Wisconsin,positive
+Alaska,positive
+Washington,neutral
+California,negative
+Florida,positive
+New York,neutral
+Ohio,neutral
+Pennsylvania,negative
+Illinois,neutral
+Hawaii,neutral
+New York,neutral
+California,positive
+New York,neutral
+Washington,neutral
+Minnesota,negative
+Florida,neutral
+Florida,neutral
+Connecticut,neutral
+Washington,negative
+New York,positive
+New York,positive
+Virginia,neutral
+New York,positive
+Georgia,neutral
+New York,positive
+Texas,neutral
+Kansas,negative
+North Carolina,neutral
+Washington,neutral
+Vermont,neutral
+Kansas,positive
+California,negative
+New York,neutral
+Kansas,neutral
+New York,neutral
+California,negative
+California,negative
+New York,positive
+Illinois,neutral
+Washington,neutral
+Vermont,negative
+Florida,positive
+New York,neutral
+New York,neutral
+Florida,neutral
+New York,positive
+Florida,neutral
+New York,negative
+California,positive
+Maryland,negative
+New York,neutral
+Florida,positive
+Virginia,neutral
+Florida,positive
+Florida,neutral
+New York,negative
+Kansas,negative
+New York,neutral
+Michigan,neutral
+Washington,neutral
+South Carolina,positive
+New York,neutral
+Florida,neutral
+California,neutral
+Florida,neutral
+Michigan,neutral
+Wisconsin,neutral
+New York,neutral
+Florida,positive
+New York,neutral
+Ohio,negative
+Washington,neutral
+Ohio,neutral
+California,positive
+Nebraska,neutral
+Washington,neutral
+Vermont,negative
+Missouri,neutral
+Washington,neutral
+Texas,positive
+Virginia,positive
+Illinois,positive
+Virginia,positive
+Louisiana,positive
+Virginia,positive
+New York,positive
+Georgia,neutral
+Washington,neutral
+California,neutral
+North Carolina,positive
+Iowa,neutral
+New Mexico,positive
+North Carolina,positive
+Virginia,neutral
+New York,negative
+South Carolina,neutral
+New York,neutral
+California,positive
+Washington,neutral
+New York,positive
+New Jersey,neutral
+Washington,negative
+Oregon,negative
+Hawaii,neutral
+Kentucky,negative
+Iowa,neutral
+California,positive
+California,negative
+Texas,neutral
+California,neutral
+New York,positive
+Washington,neutral
+Tennessee,positive
+Tennessee,neutral
+Nebraska,neutral
+Washington,positive
+South Dakota,neutral
+California,neutral
+Arkansas,negative
+Washington,negative
+California,neutral
+Pennsylvania,positive
+Washington,neutral
+Texas,neutral
+Florida,negative
+California,neutral
+New Jersey,neutral
+Florida,positive
+Minnesota,positive
+Mississippi,positive
+Massachusetts,neutral
+New York,positive
+Utah,neutral
+Oregon,positive
+Washington,positive
+Louisiana,neutral
+California,positive
+New York,positive
+New York,negative
+New York,positive
+New York,positive
+Washington,neutral
+Oregon,neutral
+New Jersey,positive
+New Jersey,positive
+New Jersey,positive
+Washington,neutral
+New Jersey,positive
+New Jersey,positive
+Florida,neutral
+Washington,neutral
+California,neutral
+California,negative
+New York,neutral
+California,negative
+Tennessee,negative
+New York,neutral
+California,negative
+New York,neutral
+New York,positive
+New York,neutral
+California,positive
+Utah,positive
+New York,neutral
+Massachusetts,positive
+Florida,neutral
+California,negative
+California,neutral
+Minnesota,negative
+Wisconsin,neutral
+Washington,neutral
+North Carolina,positive
+Washington,neutral
+California,neutral
+Pennsylvania,positive
+Virginia,positive
+Georgia,negative
+Texas,negative
+Virginia,positive
+California,negative
+California,negative
+Georgia,negative
+Tennessee,positive
+California,neutral
+Louisiana,positive
+Oregon,neutral
+Illinois,positive
+New York,negative
+Iowa,neutral
+Oklahoma,neutral
+Florida,neutral
+New York,negative
+New York,neutral
+New York,negative
+Florida,neutral
+California,neutral
+Massachusetts,positive
+New Jersey,neutral
+Illinois,neutral
+New York,neutral
+Georgia,positive
+California,positive
+Washington,neutral
+New York,neutral
+Virginia,neutral
+California,positive
+Pennsylvania,neutral
+Washington,positive
+New York,neutral
+California,neutral
+California,neutral
+California,positive
+California,neutral
+Florida,neutral
+New York,neutral
+Florida,neutral
+California,neutral
+Virginia,neutral
+New York,negative
+Washington,neutral
+Minnesota,positive
+New York,neutral
+Louisiana,neutral
+California,negative
+Georgia,positive
+New York,neutral
+New York,negative
+Texas,neutral
+Colorado,neutral
+Vermont,neutral
+California,neutral
+California,negative
+Washington,negative
+Florida,neutral
+New York,negative
+Oregon,positive
+Texas,neutral
+Maryland,neutral
+New York,neutral
+Hawaii,negative
+Kansas,negative
+New York,positive
+New York,negative
+California,positive
+Hawaii,neutral
+New York,negative
+Georgia,neutral
+New Jersey,negative
+Illinois,negative
+Florida,neutral
+Georgia,neutral
+Illinois,negative
+Utah,neutral
+Virginia,neutral
+Texas,negative
+Utah,neutral
+California,neutral
+Hawaii,neutral
+Texas,negative
+Arizona,positive
+California,neutral
+California,neutral
+California,negative
+Alaska,positive
+Texas,positive
+Pennsylvania,negative
+Florida,negative
+New York,positive
+Washington,neutral
+California,neutral
+New York,positive
+Washington,neutral
+California,neutral
+California,negative
+Indiana,neutral
+Texas,neutral
+Texas,neutral
+Nebraska,neutral
+New York,neutral
+New York,neutral
+Washington,neutral
+Hawaii,positive
+California,positive
+California,neutral
+California,neutral
+Illinois,negative
+New York,neutral
+New York,positive
+New York,neutral
+California,positive
+New York,neutral
+California,positive
+Washington,neutral
+Illinois,negative
+Florida,neutral
+Washington,neutral
+California,negative
+Washington,neutral
+New York,neutral
+Kentucky,positive
+California,neutral
+New York,negative
+Washington,neutral
+New York,neutral
+New York,neutral
+Washington,negative
+Washington,neutral
+Florida,negative
+Washington,neutral
+New York,neutral
+North Carolina,neutral
+New York,neutral
+New York,neutral
+California,negative
+New York,negative
+Texas,negative
+California,neutral
+New York,positive
+Maryland,positive
+Massachusetts,positive
+Hawaii,neutral
+California,positive
+Massachusetts,neutral
+California,positive
+Texas,neutral
+New York,positive
+Washington,neutral
+Arizona,positive
+New York,negative
+California,negative
+New York,neutral
+Mississippi,positive
+New York,neutral
+Arizona,positive
+New York,neutral
+California,positive
+New York,neutral
+New York,neutral
+Washington,neutral
+New York,neutral
+Illinois,positive
+New York,positive
+North Carolina,neutral
+Indiana,positive
+Illinois,negative
+North Carolina,negative
+Illinois,neutral
+Ohio,negative
+California,neutral
+New Hampshire,positive
+Ohio,neutral
+California,negative
+Florida,negative
+California,negative
+Minnesota,neutral
+Illinois,neutral
+New York,neutral
+Texas,positive
+New York,negative
+New York,neutral
+Texas,neutral
+Pennsylvania,neutral
+Pennsylvania,neutral
+Washington,positive
+California,positive
+Michigan,positive
+Illinois,negative
+Pennsylvania,neutral
+Pennsylvania,neutral
+Pennsylvania,neutral
+Wisconsin,positive
+Pennsylvania,neutral
+Illinois,neutral
+Washington,neutral
+Illinois,negative
+Illinois,negative
+California,neutral
+California,neutral
+Michigan,neutral
+New York,neutral
+Illinois,negative
+Washington,neutral
+Hawaii,neutral
+Florida,positive
+Washington,neutral
+Illinois,negative
+Illinois,negative
+Illinois,negative
+Florida,positive
+Illinois,neutral
+Illinois,neutral
+Illinois,negative
+Florida,positive
+Texas,neutral
+California,positive
+Mississippi,positive
+Connecticut,positive
+Florida,neutral
+Ohio,neutral
+Ohio,neutral
+California,neutral
+Florida,neutral
+Maryland,negative
+Illinois,neutral
+North Carolina,positive
+California,neutral
+Texas,negative
+Florida,neutral
+Illinois,negative
+Illinois,neutral
+Illinois,neutral
+New York,neutral
+New York,negative
+New York,neutral
+New York,neutral
+New York,negative
+Texas,neutral
+Texas,neutral
+Texas,neutral
+Texas,neutral
+Texas,neutral
+Texas,neutral
+New York,neutral
+New York,positive
+New York,neutral
+New York,neutral
+Washington,positive
+Washington,neutral
+California,neutral
+New York,neutral
+Ohio,neutral
+Texas,negative
+Illinois,negative
+New York,neutral
+New York,positive
+Tennessee,positive
+Texas,neutral
+Ohio,positive
+New York,neutral
+New Jersey,positive
+Florida,positive
+Florida,neutral
+Washington,negative
+North Carolina,negative
+New York,negative
+Illinois,positive
+New York,neutral
+Massachusetts,positive
+Indiana,negative
+New York,neutral
+California,neutral
+Colorado,neutral
+Georgia,neutral
+New York,neutral
+Washington,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Texas,neutral
+New York,positive
+Florida,positive
+New York,neutral
+Florida,negative
+California,neutral
+Ohio,neutral
+New York,neutral
+New York,positive
+New York,neutral
+New York,positive
+New York,neutral
+Florida,positive
+New Jersey,neutral
+New York,neutral
+New York,neutral
+Washington,negative
+Mississippi,negative
+Florida,positive
+New Hampshire,neutral
+Washington,neutral
+New York,positive
+Florida,positive
+Florida,neutral
+Florida,neutral
+Florida,neutral
+Florida,neutral
+New Mexico,positive
+Florida,neutral
+Florida,negative
+Oregon,positive
+Kansas,neutral
+Arizona,positive
+Florida,positive
+Washington,neutral
+New York,neutral
+New York,neutral
+Texas,neutral
+New York,negative
+New York,neutral
+California,neutral
+Texas,neutral
+Kentucky,positive
+California,neutral
+Washington,neutral
+Washington,negative
+New York,neutral
+Florida,positive
+New York,neutral
+New York,positive
+New York,positive
+New York,neutral
+New York,neutral
+California,neutral
+Washington,neutral
+California,neutral
+Florida,positive
+Illinois,positive
+California,positive
+California,neutral
+California,negative
+New York,neutral
+Michigan,negative
+Minnesota,positive
+California,neutral
+California,neutral
+Alabama,negative
+Arkansas,neutral
+Wisconsin,positive
+Florida,positive
+Hawaii,positive
+New Mexico,neutral
+South Carolina,positive
+Florida,neutral
+Nebraska,neutral
+New York,neutral
+Arizona,neutral
+Texas,negative
+New York,neutral
+California,positive
+Washington,negative
+New Hampshire,positive
+Missouri,neutral
+New York,neutral
+California,negative
+Washington,positive
+California,neutral
+California,neutral
+Ohio,neutral
+Iowa,positive
+Virginia,negative
+Virginia,negative
+Oregon,negative
+Virginia,negative
+New York,positive
+Virginia,positive
+Ohio,positive
+Virginia,positive
+Texas,neutral
+Texas,neutral
+New York,positive
+Virginia,positive
+Virginia,positive
+Alabama,positive
+Virginia,positive
+Arizona,neutral
+New York,neutral
+Virginia,neutral
+New York,neutral
+Illinois,negative
+Virginia,negative
+Virginia,negative
+Washington,neutral
+Virginia,positive
+New Jersey,neutral
+Virginia,positive
+New York,neutral
+Virginia,negative
+Florida,neutral
+New York,neutral
+Pennsylvania,positive
+Virginia,positive
+Virginia,negative
+Florida,positive
+Illinois,positive
+Illinois,positive
+Illinois,positive
+Florida,neutral
+Illinois,positive
+New Hampshire,positive
+Illinois,positive
+California,positive
+California,negative
+California,positive
+Indiana,neutral
+New Jersey,neutral
+New Jersey,neutral
+New York,negative
+Florida,positive
+Texas,positive
+Washington,negative
+New York,positive
+New York,negative
+New York,neutral
+Florida,negative
+Washington,negative
+New York,neutral
+New York,positive
+New Jersey,neutral
+New Jersey,neutral
+Virginia,negative
+Texas,positive
+New York,negative
+New York,neutral
+Virginia,positive
+Washington,positive
+Virginia,positive
+Washington,positive
+New York,neutral
+Oklahoma,neutral
+Washington,negative
+Missouri,neutral
+Illinois,positive
+Washington,negative
+Florida,neutral
+California,neutral
+Florida,positive
+Colorado,neutral
+Massachusetts,negative
+Georgia,neutral
+Texas,neutral
+Washington,neutral
+New York,neutral
+Arizona,positive
+Washington,neutral
+Florida,neutral
+California,positive
+New York,neutral
+Arizona,positive
+Colorado,positive
+Texas,neutral
+Arizona,neutral
+New York,neutral
+Washington,neutral
+California,neutral
+California,neutral
+New York,positive
+New York,positive
+Florida,negative
+California,neutral
+New York,neutral
+Ohio,positive
+Oklahoma,negative
+California,neutral
+Michigan,positive
+Michigan,negative
+Pennsylvania,negative
+New York,positive
+New York,neutral
+New Jersey,positive
+North Carolina,positive
+New York,positive
+Oregon,neutral
+New York,negative
+Washington,positive
+New York,negative
+Washington,neutral
+Kansas,neutral
+New York,neutral
+Texas,neutral
+Florida,negative
+New York,neutral
+Illinois,negative
+Hawaii,neutral
+New York,neutral
+California,positive
+California,negative
+Pennsylvania,neutral
+California,neutral
+New York,neutral
+Florida,neutral
+Texas,neutral
+Texas,neutral
+Florida,positive
+Michigan,negative
+Florida,neutral
+Oklahoma,positive
+California,negative
+Florida,neutral
+Florida,negative
+California,neutral
+New York,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Washington,negative
+California,neutral
+Florida,neutral
+Tennessee,neutral
+New York,negative
+New York,positive
+Mississippi,positive
+New York,negative
+Georgia,positive
+New York,neutral
+Virginia,neutral
+New Jersey,neutral
+Michigan,positive
+Maryland,positive
+New York,neutral
+Arizona,positive
+Indiana,negative
+Virginia,neutral
+Missouri,neutral
+Pennsylvania,positive
+Washington,neutral
+Tennessee,neutral
+New York,negative
+Florida,positive
+New York,positive
+Maryland,positive
+Texas,neutral
+California,neutral
+New Mexico,positive
+Texas,positive
+New York,neutral
+Delaware,neutral
+California,neutral
+New York,neutral
+Washington,positive
+Illinois,neutral
+Washington,positive
+Connecticut,positive
+Hawaii,neutral
+Washington,neutral
+California,positive
+New York,neutral
+California,neutral
+Pennsylvania,positive
+Minnesota,positive
+New York,neutral
+New York,neutral
+New York,neutral
+California,neutral
+Texas,neutral
+Kansas,neutral
+Alabama,positive
+Wisconsin,neutral
+New York,neutral
+New York,neutral
+Alabama,neutral
+California,negative
+Kentucky,negative
+Florida,neutral
+Pennsylvania,positive
+Florida,neutral
+New York,neutral
+Pennsylvania,positive
+California,positive
+Ohio,neutral
+Ohio,positive
+New York,negative
+Illinois,positive
+California,neutral
+California,positive
+California,positive
+Washington,positive
+Ohio,positive
+Oregon,neutral
+California,negative
+Mississippi,negative
+New York,negative
+California,neutral
+Florida,neutral
+New York,neutral
+California,neutral
+New York,neutral
+New Jersey,negative
+Washington,neutral
+New York,neutral
+Kentucky,negative
+New York,neutral
+California,positive
+Pennsylvania,neutral
+Illinois,neutral
+New York,neutral
+New York,neutral
+Washington,negative
+New York,neutral
+New York,negative
+California,positive
+New York,positive
+New York,negative
+New York,neutral
+California,neutral
+New York,neutral
+Illinois,negative
+New York,neutral
+Wisconsin,neutral
+California,neutral
+Florida,positive
+California,neutral
+Kentucky,neutral
+Louisiana,positive
+New York,positive
+Texas,neutral
+California,neutral
+Florida,neutral
+New York,positive
+New York,positive
+California,negative
+Washington,neutral
+New York,neutral
+New York,neutral
+South Carolina,positive
+Washington,negative
+Washington,neutral
+Washington,positive
+Virginia,positive
+New York,negative
+Georgia,neutral
+Vermont,positive
+Florida,neutral
+New York,positive
+Minnesota,neutral
+New York,positive
+New York,neutral
+New York,neutral
+New York,negative
+Pennsylvania,neutral
+Washington,negative
+Mississippi,positive
+New York,neutral
+New York,neutral
+New York,neutral
+Illinois,positive
+New York,negative
+New York,neutral
+California,positive
+Illinois,negative
+Washington,neutral
+Texas,neutral
+New York,neutral
+New York,neutral
+Washington,neutral
+California,positive
+New Jersey,negative
+California,negative
+Hawaii,neutral
+Colorado,neutral
+Texas,neutral
+Washington,neutral
+North Carolina,negative
+California,neutral
+California,neutral
+New York,negative
+Arizona,negative
+California,negative
+California,positive
+Hawaii,negative
+California,negative
+California,neutral
+Georgia,neutral
+Hawaii,neutral
+Indiana,negative
+New York,negative
+New York,positive
+Indiana,negative
+New York,neutral
+Arkansas,neutral
+Oregon,negative
+New York,neutral
+Ohio,negative
+Nebraska,positive
+Utah,positive
+New York,positive
+California,neutral
+California,negative
+Massachusetts,negative
+Massachusetts,negative
+Michigan,negative
+Virginia,neutral
+Nevada,neutral
+Washington,positive
+Indiana,positive
+South Carolina,neutral
+New York,negative
+New York,neutral
+New York,positive
+New York,neutral
+New York,positive
+New York,neutral
+New York,neutral
+South Carolina,neutral
+New York,neutral
+Colorado,neutral
+Virginia,neutral
+Michigan,neutral
+Hawaii,neutral
+Illinois,positive
+New Hampshire,positive
+Virginia,negative
+Illinois,negative
+Illinois,neutral
+California,positive
+California,neutral
+New York,positive
+California,neutral
+Connecticut,neutral
+Virginia,negative
+Illinois,negative
+California,neutral
+Illinois,neutral
+Illinois,neutral
+Illinois,negative
+Tennessee,negative
+Florida,positive
+Illinois,negative
+New York,neutral
+Oklahoma,neutral
+Florida,neutral
+Washington,neutral
+California,negative
+Texas,neutral
+New York,neutral
+Washington,neutral
+New York,neutral
+Ohio,positive
+New York,negative
+New York,neutral
+Washington,negative
+Michigan,negative
+Oregon,negative
+Idaho,neutral
+Texas,positive
+Florida,neutral
+New York,negative
+New York,negative
+Virginia,neutral
+New York,positive
+New York,negative
+New York,neutral
+New York,neutral
+Virginia,positive
+New York,neutral
+Virginia,neutral
+Pennsylvania,neutral
+New York,neutral
+Virginia,negative
+Virginia,neutral
+Virginia,neutral
+New York,neutral
+New York,positive
+New York,positive
+New Jersey,neutral
+Florida,positive
+Florida,positive
+Illinois,negative
+New York,neutral
+Florida,neutral
+California,neutral
+New York,neutral
+Massachusetts,negative
+California,positive
+New York,neutral
+New York,positive
+Washington,negative
+New York,negative
+New York,neutral
+New Mexico,positive
+Maine,neutral
+Massachusetts,neutral
+Nebraska,neutral
+California,negative
+New York,neutral
+North Carolina,neutral
+Hawaii,neutral
+California,positive
+New York,neutral
+Texas,neutral
+California,neutral
+Washington,neutral
+New Jersey,positive
+California,positive
+New York,neutral
+New York,neutral
+New York,neutral
+Washington,negative
+Washington,neutral
+Washington,positive
+Florida,positive
+Florida,positive
+Kansas,negative
+Georgia,negative
+Illinois,negative
+Arizona,positive
+New York,positive
+Texas,neutral
+Pennsylvania,negative
+Washington,negative
+Florida,negative
+New York,neutral
+Florida,neutral
+Florida,neutral
+Maine,positive
+New York,neutral
+Pennsylvania,negative
+New York,neutral
+New York,neutral
+Washington,neutral
+Washington,neutral
+New York,neutral
+Washington,neutral
+Washington,neutral
+Washington,neutral
+Washington,neutral
+New York,neutral
+California,negative
+Illinois,positive
+Washington,negative
+California,negative
+California,negative
+California,positive
+Minnesota,positive
+New York,positive
+Washington,negative
+New York,positive
+Georgia,negative
+New York,negative
+New York,neutral
+Tennessee,neutral
+Washington,positive
+New York,neutral
+Washington,negative
+New York,neutral
+California,negative
+Michigan,neutral
+California,neutral
+New York,neutral
+New York,neutral
+New York,positive
+California,positive
+New York,neutral
+Minnesota,neutral
+New York,neutral
+Utah,neutral
+Florida,positive
+California,neutral
+Georgia,positive
+Washington,neutral
+Washington,negative
+Illinois,neutral
+Texas,positive
+California,positive
+Wisconsin,negative
+California,negative
+Florida,neutral
+Illinois,neutral
+Illinois,negative
+Illinois,neutral
+Illinois,neutral
+Texas,neutral
+New York,neutral
+New York,neutral
+New Hampshire,neutral
+New York,neutral
+New York,neutral
+Florida,positive
+Virginia,neutral
+California,neutral
+California,negative
+New York,neutral
+North Carolina,positive
+Pennsylvania,neutral
+California,positive
+New York,negative
+Kansas,neutral
+California,positive
+California,neutral
+California,neutral
+Texas,neutral
+Arizona,positive
+New York,positive
+New York,neutral
+New York,neutral
+Illinois,negative
+Washington,positive
+Texas,neutral
+Washington,neutral
+California,positive
+New York,neutral
+California,neutral
+Colorado,positive
+New York,positive
+Virginia,neutral
+California,negative
+California,positive
+California,negative
+New York,neutral
+Virginia,negative
+Indiana,neutral
+New York,positive
+Florida,positive
+California,neutral
+California,neutral
+California,neutral
+New York,neutral
+Washington,neutral
+California,positive
+California,positive
+Ohio,neutral
+Arizona,negative
+Texas,positive
+California,neutral
+California,neutral
+California,neutral
+Virginia,negative
+California,neutral
+Florida,neutral
+New York,neutral
+Florida,negative
+New York,positive
+California,positive
+Washington,neutral
+California,negative
+New York,positive
+Washington,positive
+Colorado,positive
+Washington,positive
+Oklahoma,negative
+California,neutral
+California,neutral
+Texas,neutral
+Washington,negative
+Virginia,positive
+Texas,neutral
+Ohio,negative
+Texas,negative
+New York,neutral
+Texas,negative
+Pennsylvania,positive
+New York,positive
+Ohio,positive
+Texas,neutral
+New York,neutral
+Arizona,negative
+Illinois,negative
+California,negative
+Hawaii,negative
+Arizona,negative
+New York,neutral
+Illinois,neutral
+Kansas,positive
+California,negative
+Hawaii,neutral
+Minnesota,negative
+Florida,positive
+Oregon,positive
+Nevada,positive
+California,neutral
+New York,neutral
+New York,negative
+Nevada,positive
+New York,neutral
+New York,neutral
+Maryland,neutral
+New York,neutral
+Washington,neutral
+Tennessee,neutral
+Ohio,positive
+Washington,positive
+Washington,negative
+Texas,neutral
+Texas,neutral
+California,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+California,neutral
+Kansas,positive
+Ohio,positive
+Illinois,positive
+Washington,neutral
+New Jersey,neutral
+New York,negative
+Indiana,neutral
+Minnesota,neutral
+Indiana,negative
+Indiana,positive
+California,positive
+Washington,neutral
+California,positive
+New York,neutral
+Florida,neutral
+Washington,negative
+New York,neutral
+New York,neutral
+Pennsylvania,positive
+Minnesota,neutral
+Florida,positive
+Washington,negative
+Arkansas,neutral
+Hawaii,neutral
+Illinois,neutral
+Washington,neutral
+California,positive
+New York,neutral
+California,positive
+Washington,neutral
+New York,negative
+New York,neutral
+Indiana,positive
+Florida,positive
+Washington,neutral
+Wisconsin,negative
+Washington,negative
+Minnesota,negative
+California,negative
+Florida,neutral
+North Carolina,neutral
+Florida,neutral
+New York,neutral
+Texas,positive
+New York,negative
+New York,neutral
+New York,neutral
+New York,neutral
+Texas,negative
+Arizona,negative
+Washington,neutral
+Missouri,neutral
+New York,positive
+Georgia,neutral
+Ohio,neutral
+Georgia,neutral
+Louisiana,negative
+Florida,neutral
+Georgia,neutral
+Texas,positive
+New York,negative
+New Jersey,neutral
+New York,positive
+New York,neutral
+New York,neutral
+Pennsylvania,neutral
+Texas,neutral
+New York,positive
+Washington,positive
+California,neutral
+New York,positive
+North Carolina,negative
+Washington,neutral
+Georgia,neutral
+Minnesota,neutral
+California,neutral
+Georgia,neutral
+North Carolina,positive
+New York,positive
+California,neutral
+Florida,positive
+New York,neutral
+Missouri,positive
+South Carolina,neutral
+Colorado,neutral
+Michigan,neutral
+Virginia,negative
+Michigan,positive
+California,neutral
+Illinois,negative
+Illinois,neutral
+Illinois,neutral
+New York,negative
+Georgia,positive
+North Carolina,positive
+Illinois,negative
+Texas,neutral
+New York,negative
+Ohio,positive
+New York,positive
+New York,neutral
+New York,positive
+New Mexico,positive
+New York,neutral
+New York,neutral
+Illinois,neutral
+Virginia,positive
+Illinois,negative
+Washington,neutral
+Massachusetts,neutral
+Washington,neutral
+New York,positive
+New York,positive
+Washington,neutral
+New Jersey,neutral
+California,neutral
+New York,negative
+Florida,neutral
+California,negative
+Hawaii,neutral
+California,positive
+Indiana,neutral
+New York,neutral
+New York,neutral
+New Hampshire,positive
+New Hampshire,positive
+New York,neutral
+Texas,neutral
+California,neutral
+New Jersey,negative
+California,positive
+New Jersey,positive
+Florida,neutral
+California,negative
+Texas,positive
+Nevada,negative
+California,neutral
+Georgia,positive
+Missouri,positive
+California,positive
+California,negative
+California,negative
+Colorado,neutral
+Kansas,neutral
+Texas,neutral
+New York,negative
+Ohio,neutral
+Oregon,neutral
+Georgia,neutral
+Alabama,positive
+Washington,neutral
+Oregon,neutral
+Wisconsin,negative
+Washington,neutral
+California,positive
+New York,negative
+Ohio,negative
+Georgia,neutral
+New York,negative
+New York,neutral
+Florida,neutral
+Mississippi,positive
+North Carolina,negative
+New York,neutral
+New York,neutral
+New York,positive
+New York,positive
+Nevada,positive
+New Jersey,neutral
+New York,neutral
+South Carolina,negative
+Washington,neutral
+South Carolina,neutral
+Massachusetts,positive
+New York,neutral
+Wisconsin,positive
+New York,neutral
+Oklahoma,negative
+New York,negative
+South Carolina,neutral
+Texas,neutral
+Indiana,neutral
+Pennsylvania,neutral
+New York,negative
+Hawaii,neutral
+California,neutral
+New York,positive
+New Hampshire,neutral
+New Jersey,positive
+California,positive
+California,positive
+Hawaii,neutral
+California,neutral
+Minnesota,neutral
+New York,positive
+California,positive
+California,positive
+California,neutral
+Kansas,positive
+Louisiana,neutral
+Florida,positive
+New Jersey,positive
+California,neutral
+Missouri,positive
+New Jersey,neutral
+Oklahoma,neutral
+New York,positive
+Nevada,negative
+Florida,neutral
+California,negative
+Illinois,negative
+California,neutral
+Arizona,positive
+Texas,negative
+Oregon,neutral
+California,neutral
+Maryland,neutral
+Ohio,neutral
+Washington,positive
+Hawaii,neutral
+California,neutral
+Washington,negative
+California,neutral
+California,positive
+Washington,neutral
+New York,neutral
+New York,negative
+Washington,positive
+Washington,positive
+New York,neutral
+New York,neutral
+New York,positive
+California,neutral
+California,negative
+California,negative
+New York,neutral
+California,neutral
+California,positive
+Virginia,positive
+New York,positive
+California,positive
+New York,neutral
+California,negative
+Arkansas,negative
+Arizona,neutral
+New York,negative
+Florida,positive
+Texas,positive
+Florida,neutral
+Georgia,negative
+New York,neutral
+Washington,neutral
+California,neutral
+Florida,neutral
+Mississippi,negative
+Washington,neutral
+Texas,positive
+New York,neutral
+Ohio,neutral
+Washington,positive
+New York,neutral
+New York,neutral
+Colorado,positive
+New York,neutral
+Washington,neutral
+Washington,negative
+Illinois,neutral
+Washington,negative
+Washington,neutral
+Washington,neutral
+Washington,neutral
+Virginia,negative
+New York,neutral
+Washington,positive
+Virginia,neutral
+Washington,positive
+Wisconsin,neutral
+Washington,neutral
+Maryland,neutral
+Florida,positive
+Washington,positive
+Nebraska,neutral
+Washington,neutral
+Pennsylvania,neutral
+Pennsylvania,neutral
+Pennsylvania,neutral
+California,neutral
+Missouri,positive
+California,neutral
+New York,positive
+Oregon,negative
+Washington,neutral
+Washington,neutral
+Wisconsin,positive
+Illinois,neutral
+Hawaii,negative
+Washington,negative
+Washington,positive
+Washington,neutral
+New York,positive
+New York,neutral
+Pennsylvania,neutral
+Washington,positive
+New York,neutral
+Washington,negative
+New York,neutral
+New York,positive
+New York,negative
+New York,neutral
+Ohio,negative
+California,positive
+Arkansas,negative
+Washington,neutral
+Hawaii,negative
+Florida,negative
+Florida,negative
+Texas,negative
+Connecticut,neutral
+New York,positive
+Minnesota,neutral
+Kansas,positive
+Texas,neutral
+New York,neutral
+New York,negative
+California,positive
+New York,positive
+Minnesota,positive
+New York,positive
+California,neutral
+Illinois,neutral
+Illinois,neutral
+Illinois,positive
+Illinois,positive
+Illinois,neutral
+Florida,neutral
+Illinois,neutral
+Florida,neutral
+Florida,neutral
+New York,neutral
+New Jersey,negative
+New York,negative
+New York,positive
+Washington,neutral
+California,positive
+Virginia,positive
+Washington,neutral
+California,neutral
+California,neutral
+California,neutral
+California,neutral
+Illinois,positive
+Florida,neutral
+Pennsylvania,positive
+Oregon,positive
+Oregon,positive
+New York,positive
+New York,neutral
+New York,positive
+Washington,neutral
+Hawaii,neutral
+Massachusetts,neutral
+Massachusetts,neutral
+Montana,positive
+California,neutral
+Indiana,positive
+Illinois,positive
+Nebraska,neutral
+Washington,neutral
+New York,positive
+New York,negative
+Florida,positive
+Washington,neutral
+North Carolina,positive
+New York,neutral
+Michigan,neutral
+Virginia,positive
+New York,negative
+California,negative
+Florida,neutral
+California,negative
+Virginia,neutral
+Florida,neutral
+New York,positive
+New York,neutral
+Ohio,negative
+Ohio,positive
+New York,positive
+Colorado,positive
+Colorado,positive
+Colorado,neutral
+New York,negative
+Colorado,neutral
+Colorado,negative
+New York,neutral
+Colorado,neutral
+Colorado,neutral
+New York,neutral
+Florida,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+California,positive
+New York,neutral
+New Jersey,positive
+New York,negative
+Virginia,neutral
+California,neutral
+North Carolina,positive
+California,neutral
+California,positive
+Washington,neutral
+New Jersey,positive
+Virginia,negative
+California,positive
+New York,negative
+Massachusetts,negative
+Illinois,negative
+New York,neutral
+Illinois,negative
+New York,negative
+Colorado,neutral
+New York,positive
+New York,positive
+Florida,positive
+Virginia,neutral
+Ohio,neutral
+Ohio,neutral
+Texas,neutral
+Texas,neutral
+Virginia,negative
+Illinois,negative
+North Carolina,neutral
+Virginia,neutral
+Missouri,neutral
+Georgia,negative
+California,negative
+Illinois,negative
+Vermont,neutral
+Iowa,neutral
+Illinois,neutral
+Illinois,neutral
+New York,neutral
+Illinois,negative
+North Dakota,neutral
+New York,neutral
+New York,positive
+Illinois,negative
+Georgia,neutral
+New York,neutral
+New York,neutral
+Illinois,neutral
+New Mexico,positive
+New York,neutral
+Virginia,negative
+Illinois,negative
+Illinois,neutral
+Illinois,neutral
+Illinois,negative
+Washington,neutral
+New York,neutral
+California,positive
+New York,neutral
+Washington,neutral
+New York,negative
+New York,negative
+Hawaii,neutral
+New York,positive
+Utah,positive
+New York,positive
+New York,neutral
+Texas,negative
+New York,neutral
+Oregon,neutral
+Texas,neutral
+California,neutral
+Oregon,positive
+New York,positive
+California,neutral
+California,neutral
+California,positive
+California,positive
+Texas,positive
+Ohio,positive
+Washington,negative
+Florida,neutral
+New Jersey,positive
+California,neutral
+California,positive
+Oklahoma,negative
+Connecticut,negative
+New York,neutral
+New York,neutral
+Illinois,neutral
+Kentucky,neutral
+California,neutral
+New York,positive
+New York,neutral
+New York,positive
+California,positive
+California,negative
+New York,neutral
+New York,neutral
+Massachusetts,neutral
+Tennessee,neutral
+California,neutral
+New York,neutral
+Florida,positive
+New York,positive
+Texas,positive
+California,positive
+Ohio,negative
+Florida,neutral
+Ohio,positive
+New York,neutral
+Texas,neutral
+Ohio,negative
+California,positive
+Pennsylvania,neutral
+New York,neutral
+New York,positive
+New York,neutral
+Washington,positive
+Oregon,positive
+Oregon,positive
+Pennsylvania,neutral
+California,positive
+Oregon,positive
+Oregon,neutral
+Oregon,neutral
+California,neutral
+Arizona,positive
+Maine,neutral
+Texas,neutral
+Tennessee,positive
+Ohio,neutral
+Tennessee,positive
+New York,neutral
+New York,positive
+Tennessee,positive
+California,negative
+New York,positive
+New York,neutral
+Washington,positive
+Texas,positive
+Illinois,neutral
+Michigan,positive
+Texas,neutral
+Nebraska,neutral
+Texas,negative
+Georgia,positive
+Maryland,positive
+New Jersey,neutral
+New York,neutral
+Ohio,negative
+Maryland,neutral
+Washington,negative
+New York,neutral
+Ohio,neutral
+California,neutral
+New York,neutral
+California,neutral
+California,neutral
+California,neutral
+New York,neutral
+New York,positive
+Washington,negative
+New York,positive
+New York,negative
+New York,neutral
+New York,negative
+Virginia,positive
+California,positive
+New York,negative
+Florida,neutral
+Florida,negative
+Indiana,positive
+Virginia,positive
+New Hampshire,positive
+New York,neutral
+New York,neutral
+Arizona,positive
+Washington,neutral
+California,neutral
+Indiana,negative
+Ohio,neutral
+Wyoming,negative
+Ohio,neutral
+California,negative
+Georgia,neutral
+Virginia,neutral
+Kansas,positive
+Florida,neutral
+Virginia,negative
+New York,neutral
+Virginia,neutral
+North Carolina,neutral
+Virginia,neutral
+Virginia,neutral
+South Carolina,negative
+Virginia,neutral
+North Carolina,neutral
+Virginia,positive
+Washington,positive
+New York,negative
+Washington,neutral
+Pennsylvania,positive
+California,neutral
+Washington,positive
+New York,neutral
+California,negative
+Washington,positive
+New York,neutral
+Idaho,positive
+California,positive
+Tennessee,positive
+Washington,positive
+California,neutral
+New York,neutral
+Mississippi,positive
+Virginia,positive
+Florida,positive
+New York,positive
+New York,neutral
+New York,neutral
+Texas,neutral
+New York,neutral
+Ohio,neutral
+Massachusetts,positive
+Ohio,neutral
+Hawaii,negative
+Pennsylvania,negative
+New York,neutral
+California,positive
+New York,neutral
+Virginia,neutral
+Hawaii,neutral
+Pennsylvania,positive
+Minnesota,positive
+Idaho,positive
+New York,negative
+Texas,negative
+Louisiana,neutral
+Hawaii,negative
+Washington,neutral
+California,neutral
+California,neutral
+Pennsylvania,positive
+New York,neutral
+California,neutral
+California,positive
+Washington,neutral
+New York,neutral
+California,neutral
+Pennsylvania,neutral
+Florida,negative
+California,positive
+California,neutral
+California,positive
+Illinois,positive
+Washington,positive
+Florida,positive
+New York,neutral
+Connecticut,positive
+New York,neutral
+New York,negative
+Pennsylvania,neutral
+California,positive
+New York,negative
+Florida,neutral
+New York,negative
+Oregon,positive
+Washington,neutral
+Alabama,negative
+Alabama,negative
+New York,neutral
+Washington,neutral
+California,positive
+Florida,negative
+Wyoming,neutral
+New York,negative
+Mississippi,negative
+Vermont,positive
+Texas,neutral
+California,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Oregon,negative
+Arizona,neutral
+Washington,positive
+Maryland,neutral
+Tennessee,negative
+Indiana,positive
+Arizona,neutral
+New York,neutral
+New York,neutral
+California,neutral
+Washington,neutral
+Virginia,positive
+Pennsylvania,positive
+Illinois,neutral
+Hawaii,neutral
+California,neutral
+California,neutral
+Florida,negative
+Florida,negative
+Illinois,neutral
+Illinois,negative
+Florida,neutral
+Ohio,negative
+Illinois,negative
+Texas,positive
+New York,negative
+New York,positive
+Idaho,negative
+Texas,positive
+California,positive
+New York,neutral
+New York,neutral
+New York,neutral
+Washington,neutral
+Georgia,neutral
+Texas,negative
+Texas,negative
+Texas,positive
+New York,neutral
+Minnesota,negative
+New York,negative
+Idaho,negative
+Ohio,negative
+Massachusetts,neutral
+Pennsylvania,neutral
+Ohio,negative
+Massachusetts,neutral
+Pennsylvania,neutral
+New York,neutral
+California,positive
+California,positive
+New York,neutral
+New Jersey,positive
+Ohio,positive
+Ohio,positive
+Ohio,neutral
+Florida,positive
+Texas,neutral
+Ohio,negative
+Connecticut,neutral
+Mississippi,negative
+Minnesota,neutral
+Ohio,neutral
+Oregon,negative
+Michigan,positive
+New York,positive
+California,neutral
+Illinois,neutral
+New York,positive
+New York,neutral
+California,positive
+Massachusetts,neutral
+Minnesota,negative
+New York,neutral
+Illinois,neutral
+Washington,neutral
+New York,neutral
+Florida,neutral
+Florida,neutral
+Georgia,neutral
+New York,neutral
+Delaware,positive
+New York,positive
+Wisconsin,neutral
+Maine,positive
+Florida,negative
+Arkansas,negative
+Florida,positive
+Florida,neutral
+North Carolina,positive
+New York,negative
+Nevada,neutral
+California,neutral
+Illinois,negative
+Florida,neutral
+New York,positive
+Illinois,negative
+Florida,negative
+Georgia,negative
+North Carolina,positive
+Illinois,negative
+Illinois,negative
+Illinois,neutral
+Minnesota,positive
+New York,negative
+Illinois,negative
+Illinois,negative
+Pennsylvania,neutral
+Illinois,neutral
+California,neutral
+Pennsylvania,neutral
+New York,neutral
+North Carolina,positive
+Illinois,negative
+Washington,positive
+Florida,positive
+Illinois,negative
+Ohio,neutral
+California,neutral
+Illinois,neutral
+Texas,neutral
+Illinois,negative
+Washington,positive
+Ohio,neutral
+New York,neutral
+Illinois,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+California,neutral
+North Carolina,positive
+Connecticut,neutral
+Arizona,negative
+New York,neutral
+California,positive
+California,negative
+New York,positive
+Illinois,negative
+Arizona,neutral
+Illinois,neutral
+New York,positive
+California,neutral
+Florida,neutral
+Ohio,negative
+Texas,neutral
+New York,positive
+Illinois,neutral
+New York,negative
+New York,positive
+Illinois,negative
+Oregon,neutral
+Illinois,negative
+Arizona,neutral
+Pennsylvania,negative
+Texas,positive
+Florida,neutral
+North Carolina,negative
+Florida,neutral
+Tennessee,positive
+Tennessee,negative
+California,neutral
+Washington,positive
+Hawaii,neutral
+New York,neutral
+Pennsylvania,negative
+Kansas,neutral
+North Carolina,negative
+New York,positive
+Washington,positive
+Washington,negative
+Arkansas,positive
+Florida,neutral
+Illinois,negative
+Illinois,negative
+California,neutral
+Pennsylvania,positive
+North Carolina,positive
+Idaho,negative
+Pennsylvania,positive
+Florida,positive
+Florida,positive
+California,neutral
+Georgia,neutral
+Maryland,neutral
+New York,negative
+California,positive
+California,positive
+California,positive
+California,positive
+Illinois,positive
+California,positive
+New York,neutral
+California,positive
+California,positive
+California,positive
+Texas,neutral
+New York,neutral
+Florida,neutral
+Pennsylvania,neutral
+Maryland,negative
+Indiana,neutral
+Washington,positive
+Florida,neutral
+North Carolina,negative
+Indiana,negative
+California,negative
+New York,neutral
+North Carolina,negative
+Virginia,negative
+Florida,neutral
+Minnesota,negative
+Washington,negative
+Texas,neutral
+New York,neutral
+Pennsylvania,neutral
+Florida,positive
+California,positive
+Texas,negative
+New Jersey,neutral
+Pennsylvania,positive
+North Carolina,negative
+California,neutral
+Georgia,neutral
+New York,neutral
+Pennsylvania,neutral
+Pennsylvania,positive
+Massachusetts,neutral
+Michigan,positive
+Washington,positive
+California,neutral
+Oregon,positive
+Pennsylvania,neutral
+Idaho,positive
+Connecticut,neutral
+New York,positive
+Delaware,neutral
+New York,negative
+California,negative
+Georgia,neutral
+Mississippi,positive
+California,negative
+Georgia,neutral
+Iowa,neutral
+North Carolina,negative
+California,positive
+Pennsylvania,neutral
+California,negative
+New York,neutral
+California,neutral
+California,neutral
+Nebraska,negative
+North Carolina,positive
+Wisconsin,neutral
+Pennsylvania,negative
+California,positive
+Maryland,positive
+New Jersey,neutral
+California,neutral
+Oregon,neutral
+Illinois,positive
+Hawaii,neutral
+California,neutral
+New York,negative
+Connecticut,negative
+North Carolina,positive
+California,positive
+Texas,neutral
+Wisconsin,neutral
+North Carolina,neutral
+New York,neutral
+North Carolina,negative
+Texas,positive
+North Carolina,neutral
+Vermont,positive
+North Carolina,negative
+North Carolina,positive
+Iowa,neutral
+Ohio,positive
+New York,neutral
+Arkansas,negative
+North Carolina,positive
+Connecticut,positive
+Texas,positive
+Washington,neutral
+Texas,neutral
+Washington,neutral
+California,neutral
+New York,neutral
+California,positive
+New York,negative
+Illinois,negative
+New York,positive
+Georgia,neutral
+California,positive
+Florida,positive
+Wisconsin,neutral
+Illinois,neutral
+Illinois,positive
+Illinois,neutral
+Washington,negative
+Ohio,neutral
+Ohio,positive
+New York,negative
+New York,positive
+Illinois,neutral
+Illinois,neutral
+New York,positive
+Illinois,neutral
+New York,neutral
+New York,positive
+Washington,positive
+Mississippi,positive
+Illinois,neutral
+New York,neutral
+California,positive
+New York,negative
+Arizona,neutral
+Tennessee,neutral
+Washington,neutral
+California,neutral
+California,negative
+North Carolina,negative
+Washington,neutral
+New York,neutral
+Texas,positive
+Illinois,neutral
+Texas,positive
+New York,positive
+New York,positive
+Michigan,positive
+Illinois,neutral
+Illinois,neutral
+New York,neutral
+New York,neutral
+Michigan,positive
+Illinois,positive
+Washington,neutral
+New Jersey,negative
+New York,neutral
+New York,negative
+Washington,neutral
+Pennsylvania,negative
+New York,positive
+Pennsylvania,positive
+Florida,neutral
+New Mexico,positive
+New York,negative
+New York,positive
+New York,positive
+California,neutral
+North Carolina,neutral
+Washington,neutral
+Georgia,positive
+Michigan,positive
+Washington,positive
+New York,neutral
+California,neutral
+North Carolina,neutral
+New York,neutral
+New Jersey,negative
+New York,positive
+New York,neutral
+New York,positive
+Minnesota,positive
+California,neutral
+California,neutral
+California,negative
+Kentucky,neutral
+Louisiana,positive
+Hawaii,neutral
+New York,neutral
+Washington,positive
+North Carolina,neutral
+New York,neutral
+Washington,neutral
+California,positive
+New York,neutral
+Pennsylvania,negative
+California,neutral
+New York,neutral
+New York,neutral
+North Carolina,neutral
+Pennsylvania,neutral
+California,neutral
+Arizona,neutral
+New York,neutral
+Hawaii,positive
+Hawaii,positive
+Arizona,neutral
+Illinois,neutral
+Hawaii,positive
+New York,positive
+New York,positive
+Nevada,negative
+Kentucky,positive
+Nevada,positive
+Washington,positive
+Washington,neutral
+Texas,neutral
+New York,positive
+Nevada,negative
+California,negative
+Washington,positive
+New York,positive
+New York,positive
+Washington,positive
+Washington,neutral
+New York,negative
+Colorado,negative
+New Jersey,positive
+Texas,positive
+New York,neutral
+Illinois,neutral
+Illinois,positive
+North Carolina,positive
+Virginia,positive
+Florida,negative
+Tennessee,neutral
+California,positive
+New York,negative
+Michigan,neutral
+North Carolina,neutral
+North Carolina,positive
+North Carolina,positive
+North Carolina,positive
+Ohio,positive
+Washington,negative
+North Carolina,negative
+Illinois,negative
+Illinois,positive
+Indiana,negative
+California,positive
+California,neutral
+New Jersey,neutral
+Washington,negative
+Washington,neutral
+New Jersey,neutral
+Washington,negative
+California,neutral
+New York,positive
+Ohio,positive
+New York,positive
+Indiana,positive
+Rhode Island,negative
+Rhode Island,negative
+Indiana,positive
+Pennsylvania,negative
+New York,neutral
+New York,neutral
+New York,negative
+New York,neutral
+Georgia,neutral
+Virginia,positive
+California,neutral
+Virginia,positive
+Illinois,positive
+New York,neutral
+Missouri,neutral
+Texas,neutral
+North Carolina,negative
+Virginia,neutral
+Washington,neutral
+New York,neutral
+North Carolina,neutral
+North Carolina,neutral
+North Carolina,neutral
+North Carolina,neutral
+New York,neutral
+Maryland,positive
+California,neutral
+Georgia,positive
+New York,negative
+Maryland,positive
+Iowa,neutral
+Virginia,positive
+Florida,negative
+Texas,negative
+Illinois,negative
+California,positive
+Illinois,negative
+North Carolina,neutral
+Maryland,positive
+New York,neutral
+North Carolina,positive
+Oklahoma,negative
+New York,positive
+New York,positive
+California,positive
+Illinois,positive
+California,positive
+New York,positive
+New York,positive
+Washington,negative
+Utah,positive
+Maryland,neutral
+New York,positive
+California,neutral
+New York,neutral
+New Jersey,negative
+Alabama,negative
+Pennsylvania,positive
+Illinois,neutral
+South Carolina,neutral
+Virginia,positive
+Washington,negative
+Washington,neutral
+Oregon,neutral
+North Carolina,neutral
+Ohio,negative
+Washington,negative
+New York,positive
+New York,positive
+Washington,neutral
+Florida,neutral
+North Carolina,neutral
+Maryland,positive
+North Carolina,negative
+North Carolina,positive
+Texas,positive
+California,negative
+Florida,neutral
+Washington,negative
+Vermont,positive
+North Carolina,neutral
+New York,neutral
+New York,neutral
+North Carolina,negative
+North Carolina,neutral
+New York,neutral
+Virginia,positive
+Illinois,negative
+New York,neutral
+New York,neutral
+Ohio,neutral
+Michigan,positive
+California,positive
+New York,positive
+Colorado,negative
+Nevada,negative
+Louisiana,positive
+Hawaii,negative
+Nevada,positive
+Nevada,neutral
+California,neutral
+New York,negative
+Pennsylvania,neutral
+Washington,neutral
+New York,positive
+New York,positive
+Florida,negative
+Maine,neutral
+New York,neutral
+Oregon,positive
+New York,negative
+Indiana,neutral
+New York,positive
+New York,positive
+New York,positive
+Colorado,neutral
+California,neutral
+Washington,neutral
+California,neutral
+California,positive
+California,neutral
+Texas,neutral
+California,positive
+New Jersey,positive
+Alabama,positive
+New Jersey,negative
+North Carolina,positive
+New York,neutral
+Virginia,negative
+California,negative
+California,positive
+Missouri,positive
+Florida,neutral
+Illinois,positive
+Illinois,positive
+California,neutral
+Washington,positive
+California,positive
+Illinois,positive
+California,negative
+Georgia,neutral
+Texas,neutral
+Washington,neutral
+California,positive
+Texas,negative
+Washington,neutral
+Pennsylvania,neutral
+Hawaii,neutral
+New York,neutral
+Connecticut,neutral
+Colorado,neutral
+California,neutral
+North Carolina,neutral
+Washington,positive
+Iowa,neutral
+New York,neutral
+North Carolina,negative
+Illinois,neutral
+Illinois,neutral
+Texas,neutral
+Illinois,negative
+California,positive
+Tennessee,neutral
+Florida,neutral
+Illinois,neutral
+North Carolina,neutral
+Florida,positive
+Florida,positive
+Texas,negative
+Florida,neutral
+Illinois,neutral
+Illinois,neutral
+Florida,neutral
+Pennsylvania,neutral
+Florida,neutral
+New York,neutral
+New York,neutral
+California,positive
+Washington,negative
+Texas,neutral
+Pennsylvania,positive
+New York,positive
+Florida,negative
+New York,neutral
+Illinois,neutral
+Georgia,neutral
+New York,positive
+Illinois,neutral
+Illinois,negative
+Washington,neutral
+Illinois,negative
+Florida,neutral
+Tennessee,positive
+Florida,negative
+Washington,neutral
+New York,positive
+Texas,positive
+New York,neutral
+California,negative
+Washington,positive
+Illinois,neutral
+Kentucky,positive
+Illinois,negative
+Illinois,positive
+Washington,negative
+Washington,negative
+South Carolina,neutral
+New York,negative
+Washington,neutral
+New York,neutral
+Washington,negative
+North Carolina,negative
+Washington,neutral
+New York,neutral
+Washington,negative
+North Carolina,neutral
+New York,neutral
+New York,neutral
+New York,positive
+Texas,positive
+Washington,neutral
+Indiana,neutral
+New York,neutral
+North Carolina,neutral
+New Mexico,neutral
+North Carolina,positive
+Kansas,neutral
+Texas,positive
+Virginia,positive
+Washington,neutral
+Ohio,positive
+New York,neutral
+New York,neutral
+Illinois,neutral
+Washington,neutral
+North Carolina,neutral
+New York,positive
+Florida,positive
+North Carolina,positive
+New York,neutral
+New York,negative
+New York,positive
+New York,positive
+North Carolina,negative
+Florida,negative
+North Carolina,positive
+Illinois,negative
+Illinois,negative
+Illinois,negative
+Illinois,neutral
+Kansas,neutral
+North Carolina,neutral
+New York,positive
+New York,positive
+New York,negative
+New York,positive
+California,neutral
+Washington,neutral
+New Mexico,positive
+Washington,neutral
+Ohio,negative
+New York,positive
+New York,positive
+New York,neutral
+New York,negative
+Washington,neutral
+California,neutral
+New York,neutral
+Washington,neutral
+California,neutral
+New York,neutral
+New York,positive
+California,negative
+Hawaii,neutral
+California,neutral
+New York,neutral
+Missouri,positive
+Florida,negative
+New York,neutral
+Washington,neutral
+California,neutral
+California,neutral
+Oregon,neutral
+Wisconsin,neutral
+Washington,negative
+Ohio,neutral
+Alabama,negative
+Washington,neutral
+Arizona,positive
+Washington,negative
+Ohio,neutral
+Washington,neutral
+New Jersey,negative
+Illinois,neutral
+Vermont,neutral
+Pennsylvania,positive
+Illinois,positive
+Florida,positive
+New York,positive
+Colorado,positive
+California,negative
+Illinois,positive
+Colorado,neutral
+New York,neutral
+Texas,positive
+New York,positive
+Texas,neutral
+Washington,positive
+Florida,positive
+California,neutral
+Arizona,positive
+Illinois,neutral
+Georgia,neutral
+New York,negative
+New York,neutral
+Florida,negative
+New York,negative
+Wisconsin,neutral
+Washington,neutral
+Illinois,negative
+Washington,neutral
+Florida,positive
+Florida,positive
+Oregon,neutral
+Oregon,neutral
+Ohio,positive
+Arizona,positive
+California,neutral
+Massachusetts,neutral
+Colorado,negative
+New Mexico,negative
+New York,negative
+Connecticut,positive
+Texas,neutral
+Iowa,positive
+Kansas,neutral
+Alabama,neutral
+California,neutral
+Alabama,negative
+North Carolina,positive
+Florida,positive
+Georgia,negative
+Georgia,positive
+Massachusetts,neutral
+North Carolina,negative
+Wisconsin,negative
+Georgia,positive
+Florida,positive
+Massachusetts,negative
+New York,negative
+Tennessee,neutral
+Iowa,neutral
+Georgia,neutral
+New Jersey,neutral
+New York,negative
+Texas,neutral
+Ohio,positive
+Washington,neutral
+North Carolina,negative
+North Carolina,neutral
+Maryland,neutral
+California,neutral
+North Carolina,negative
+North Carolina,negative
+New York,positive
+New York,positive
+Virginia,positive
+New Jersey,negative
+New York,positive
+Ohio,negative
+New York,neutral
+New York,neutral
+New York,neutral
+Michigan,positive
+North Carolina,negative
+Illinois,negative
+California,negative
+Texas,negative
+Illinois,neutral
+Maryland,negative
+South Carolina,negative
+Texas,positive
+New York,positive
+North Carolina,neutral
+New York,neutral
+New Hampshire,neutral
+New York,neutral
+North Carolina,neutral
+Pennsylvania,neutral
+New York,negative
+Virginia,neutral
+New Jersey,neutral
+Indiana,negative
+Florida,neutral
+Kansas,neutral
+Kansas,negative
+Colorado,positive
+Wisconsin,neutral
+Illinois,positive
+Ohio,positive
+Maryland,positive
+Virginia,neutral
+California,positive
+Nebraska,neutral
+New York,positive
+Kansas,neutral
+Kansas,negative
+New York,negative
+Utah,positive
+Georgia,neutral
+Maryland,positive
+California,neutral
+California,positive
+Pennsylvania,positive
+New York,neutral
+Washington,neutral
+Ohio,negative
+Washington,neutral
+Wisconsin,positive
+Virginia,neutral
+Virginia,negative
+Pennsylvania,positive
+New York,positive
+North Carolina,neutral
+Pennsylvania,neutral
+Indiana,neutral
+Washington,neutral
+New York,neutral
+New York,positive
+Hawaii,negative
+Pennsylvania,neutral
+Washington,positive
+New York,negative
+Indiana,neutral
+Hawaii,neutral
+Florida,neutral
+New York,positive
+Alabama,negative
+Florida,negative
+New York,positive
+Pennsylvania,positive
+Florida,neutral
+Florida,neutral
+Florida,neutral
+Florida,negative
+Pennsylvania,neutral
+Florida,neutral
+Illinois,neutral
+Indiana,neutral
+Florida,positive
+New York,negative
+Alabama,neutral
+Missouri,positive
+Georgia,negative
+New York,positive
+Rhode Island,neutral
+New York,negative
+California,negative
+Washington,neutral
+New York,negative
+Alabama,positive
+Massachusetts,positive
+Illinois,neutral
+Kentucky,positive
+Illinois,negative
+Illinois,neutral
+California,negative
+Washington,neutral
+Illinois,neutral
+Hawaii,negative
+New York,positive
+North Carolina,neutral
+Illinois,negative
+Illinois,negative
+Alabama,negative
+Alabama,neutral
+Kansas,negative
+New York,negative
+Illinois,neutral
+Kansas,neutral
+New York,negative
+Virginia,neutral
+New York,negative
+New York,negative
+Georgia,negative
+Ohio,negative
+Tennessee,positive
+North Carolina,neutral
+Hawaii,neutral
+Illinois,positive
+Washington,neutral
+Washington,neutral
+North Carolina,negative
+Texas,positive
+Kansas,negative
+New York,negative
+Ohio,neutral
+Ohio,neutral
+Florida,negative
+Illinois,negative
+Pennsylvania,neutral
+Florida,neutral
+Minnesota,negative
+Kansas,negative
+New York,positive
+Washington,positive
+Washington,neutral
+Tennessee,positive
+New York,negative
+Colorado,positive
+Washington,positive
+Georgia,neutral
+Kansas,neutral
+New York,neutral
+New York,neutral
+California,negative
+New York,neutral
+New York,negative
+California,negative
+New York,neutral
+New York,neutral
+North Carolina,neutral
+North Carolina,positive
+Florida,positive
+North Carolina,positive
+New York,negative
+New York,neutral
+Virginia,positive
+Washington,neutral
+Illinois,neutral
+Massachusetts,negative
+Florida,negative
+Massachusetts,neutral
+Washington,positive
+New York,positive
+New York,positive
+Washington,neutral
+Florida,positive
+New York,neutral
+North Carolina,neutral
+Texas,positive
+Illinois,negative
+Georgia,positive
+Washington,neutral
+New York,positive
+New York,neutral
+Illinois,positive
+New York,neutral
+New York,neutral
+Illinois,negative
+Illinois,negative
+Illinois,neutral
+Illinois,neutral
+New Mexico,positive
+Georgia,neutral
+New York,negative
+New York,negative
+Virginia,positive
+New York,positive
+New Hampshire,negative
+Washington,neutral
+California,neutral
+New York,neutral
+Washington,neutral
+New York,positive
+Arkansas,negative
+California,neutral
+New York,negative
+Hawaii,neutral
+Texas,positive
+New York,neutral
+New York,positive
+New York,positive
+Pennsylvania,positive
+New York,neutral
+New York,neutral
+California,neutral
+California,neutral
+Illinois,neutral
+Washington,neutral
+Washington,neutral
+Washington,neutral
+Washington,positive
+Hawaii,negative
+California,positive
+New York,positive
+Michigan,negative
+Washington,neutral
+New York,negative
+Pennsylvania,positive
+California,positive
+Illinois,neutral
+New York,positive
+Tennessee,positive
+Hawaii,positive
+Florida,positive
+Colorado,positive
+Washington,positive
+Utah,neutral
+Illinois,negative
+California,neutral
+Texas,neutral
+Illinois,negative
+New York,neutral
+Florida,negative
+Minnesota,positive
+Washington,neutral
+Nevada,neutral
+Kansas,positive
+New York,positive
+New York,negative
+New York,neutral
+California,negative
+Maryland,positive
+New York,negative
+California,positive
+Washington,neutral
+Washington,neutral
+Florida,neutral
+Washington,neutral
+Minnesota,neutral
+New York,neutral
+California,positive
+California,neutral
+Pennsylvania,negative
+Nevada,neutral
+Oregon,negative
+New York,neutral
+California,neutral
+Indiana,positive
+Florida,negative
+Washington,neutral
+California,negative
+Florida,neutral
+Texas,neutral
+California,positive
+Maryland,negative
+Washington,neutral
+Washington,neutral
+New York,neutral
+New York,positive
+New York,positive
+Texas,neutral
+California,negative
+California,negative
+Florida,negative
+Missouri,neutral
+Maryland,neutral
+Florida,negative
+New York,neutral
+New York,positive
+New York,positive
+New York,neutral
+Illinois,negative
+California,positive
+Florida,positive
+California,neutral
+New York,neutral
+California,neutral
+Illinois,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Washington,neutral
+New York,positive
+Maryland,neutral
+Virginia,neutral
+New York,neutral
+Virginia,neutral
+Illinois,negative
+Virginia,neutral
+Illinois,negative
+Illinois,positive
+Virginia,positive
+Virginia,positive
+Virginia,neutral
+Texas,positive
+Ohio,neutral
+Kentucky,neutral
+Delaware,positive
+California,positive
+Florida,neutral
+Maryland,neutral
+North Carolina,positive
+Maryland,neutral
+New York,positive
+Tennessee,positive
+Florida,positive
+Massachusetts,negative
+New York,neutral
+Florida,neutral
+New York,positive
+New Jersey,positive
+New York,neutral
+Hawaii,negative
+Illinois,negative
+Hawaii,neutral
+Missouri,negative
+Texas,negative
+New York,neutral
+North Carolina,negative
+California,negative
+Florida,negative
+California,positive
+Maryland,positive
+Florida,positive
+Massachusetts,neutral
+Florida,positive
+California,neutral
+Florida,positive
+Washington,positive
+Washington,positive
+New York,neutral
+Vermont,negative
+Hawaii,neutral
+Illinois,negative
+California,positive
+Illinois,negative
+Illinois,neutral
+Illinois,neutral
+New York,neutral
+Colorado,negative
+North Carolina,neutral
+North Carolina,negative
+New York,positive
+North Carolina,negative
+North Carolina,negative
+Pennsylvania,neutral
+North Carolina,neutral
+New York,negative
+New York,negative
+New York,neutral
+Florida,neutral
+Pennsylvania,neutral
+Washington,negative
+New York,negative
+Pennsylvania,positive
+California,neutral
+New York,neutral
+Washington,neutral
+Washington,positive
+Washington,neutral
+Kentucky,neutral
+Maryland,neutral
+Texas,positive
+New York,neutral
+Tennessee,neutral
+Illinois,neutral
+Hawaii,neutral
+Minnesota,neutral
+New York,negative
+Colorado,negative
+Virginia,positive
+Minnesota,positive
+Texas,positive
+Washington,positive
+Washington,neutral
+Washington,neutral
+Illinois,neutral
+New York,neutral
+California,neutral
+North Carolina,positive
+North Carolina,positive
+New York,neutral
+Tennessee,negative
+Iowa,negative
+Texas,positive
+Virginia,negative
+New York,negative
+California,negative
+New Jersey,neutral
+Washington,negative
+New York,neutral
+New York,positive
+Indiana,positive
+Massachusetts,neutral
+Indiana,neutral
+Indiana,negative
+New York,neutral
+New York,neutral
+Arizona,negative
+Virginia,neutral
+New York,negative
+New York,neutral
+New York,neutral
+New York,positive
+New York,neutral
+Florida,positive
+New York,negative
+New York,positive
+New York,neutral
+North Carolina,neutral
+New York,positive
+New York,positive
+Maryland,neutral
+New York,neutral
+New York,neutral
+Texas,neutral
+New York,neutral
+Washington,neutral
+North Carolina,neutral
+New Mexico,positive
+Washington,positive
+Virginia,neutral
+New York,neutral
+Washington,neutral
+Texas,positive
+Kansas,positive
+Alabama,positive
+Colorado,positive
+Washington,negative
+Pennsylvania,negative
+New York,positive
+New York,neutral
+Hawaii,neutral
+North Carolina,neutral
+Pennsylvania,positive
+New York,neutral
+Washington,neutral
+California,neutral
+New Jersey,neutral
+California,negative
+New York,positive
+New York,positive
+New York,positive
+California,neutral
+North Carolina,neutral
+California,positive
+North Carolina,neutral
+Colorado,negative
+Maryland,positive
+Illinois,negative
+Pennsylvania,neutral
+Illinois,negative
+Illinois,neutral
+Illinois,neutral
+Illinois,negative
+Illinois,neutral
+Illinois,neutral
+Illinois,neutral
+Illinois,neutral
+Illinois,neutral
+Illinois,neutral
+Illinois,negative
+North Carolina,neutral
+Illinois,neutral
+Illinois,negative
+Oregon,neutral
+Illinois,neutral
+Illinois,neutral
+Illinois,neutral
+Illinois,negative
+Illinois,negative
+Illinois,negative
+Illinois,positive
+North Carolina,neutral
+Pennsylvania,positive
+Illinois,neutral
+Illinois,negative
+Pennsylvania,neutral
+Minnesota,neutral
+Pennsylvania,positive
+New York,positive
+Tennessee,positive
+Indiana,negative
+Oregon,positive
+Oregon,positive
+New York,neutral
+Illinois,positive
+Illinois,negative
+Ohio,positive
+Illinois,negative
+Illinois,negative
+Illinois,neutral
+Illinois,negative
+Illinois,neutral
+Illinois,negative
+California,negative
+Illinois,negative
+Illinois,neutral
+Illinois,neutral
+California,positive
+Pennsylvania,positive
+Pennsylvania,positive
+New York,neutral
+Illinois,neutral
+New York,negative
+Wisconsin,neutral
+Pennsylvania,neutral
+New York,neutral
+Michigan,negative
+New York,positive
+New York,neutral
+California,positive
+Georgia,negative
+Minnesota,positive
+New York,neutral
+Michigan,positive
+Washington,neutral
+New York,neutral
+Illinois,negative
+New York,positive
+New York,positive
+California,negative
+New York,neutral
+New Jersey,neutral
+New York,neutral
+Missouri,neutral
+Colorado,neutral
+Florida,negative
+Kansas,neutral
+Washington,negative
+New York,neutral
+Florida,positive
+Maryland,positive
+New York,neutral
+California,negative
+New York,positive
+New York,positive
+Colorado,positive
+New Jersey,negative
+Washington,neutral
+New York,neutral
+Illinois,negative
+Tennessee,neutral
+New York,neutral
+Illinois,negative
+Washington,neutral
+Washington,positive
+Illinois,negative
+New York,negative
+New York,negative
+North Carolina,neutral
+Mississippi,neutral
+New York,neutral
+Virginia,positive
+Illinois,negative
+Kansas,neutral
+Washington,neutral
+California,neutral
+Nevada,positive
+Illinois,neutral
+Florida,neutral
+Virginia,neutral
+Illinois,neutral
+Illinois,neutral
+California,neutral
+Virginia,neutral
+Mississippi,positive
+Virginia,neutral
+Virginia,negative
+Texas,positive
+Georgia,neutral
+New York,positive
+New York,neutral
+California,neutral
+Virginia,neutral
+New York,neutral
+Virginia,neutral
+Virginia,neutral
+Illinois,neutral
+Illinois,neutral
+Utah,neutral
+Virginia,positive
+Ohio,neutral
+Massachusetts,positive
+Florida,neutral
+Florida,neutral
+Washington,neutral
+Illinois,negative
+Illinois,neutral
+Illinois,neutral
+Pennsylvania,neutral
+Texas,positive
+New York,positive
+Georgia,positive
+California,neutral
+New York,neutral
+Washington,neutral
+California,neutral
+Illinois,neutral
+Illinois,negative
+New York,neutral
+Illinois,neutral
+Illinois,neutral
+California,positive
+Maryland,positive
+Illinois,neutral
+Illinois,neutral
+Illinois,positive
+Illinois,negative
+Illinois,neutral
+Washington,negative
+Connecticut,neutral
+Pennsylvania,negative
+Texas,positive
+New York,positive
+New York,neutral
+New York,neutral
+New York,positive
+New York,positive
+California,neutral
+Indiana,negative
+New York,neutral
+Nevada,neutral
+Washington,positive
+Hawaii,negative
+New York,neutral
+New York,neutral
+Washington,positive
+Washington,negative
+New York,positive
+South Carolina,negative
+Washington,positive
+Hawaii,neutral
+New York,neutral
+Texas,positive
+Virginia,neutral
+Oklahoma,positive
+Pennsylvania,positive
+Connecticut,neutral
+New York,negative
+New York,negative
+Illinois,neutral
+New York,negative
+California,neutral
+Illinois,neutral
+Pennsylvania,negative
+Illinois,neutral
+Washington,neutral
+Texas,negative
+New York,positive
+California,neutral
+New Hampshire,positive
+New York,neutral
+New York,neutral
+New York,negative
+New York,neutral
+New York,negative
+Texas,positive
+New York,negative
+Florida,neutral
+Texas,neutral
+Texas,positive
+Florida,neutral
+California,negative
+Florida,neutral
+Louisiana,negative
+Illinois,negative
+Hawaii,neutral
+Washington,neutral
+Michigan,neutral
+Texas,positive
+Colorado,neutral
+Washington,positive
+Illinois,neutral
+Colorado,neutral
+New York,neutral
+Arkansas,neutral
+Florida,positive
+New York,neutral
+Ohio,neutral
+Ohio,neutral
+Florida,negative
+New York,neutral
+Washington,neutral
+Florida,positive
+Washington,neutral
+New York,neutral
+New York,positive
+New York,neutral
+Florida,neutral
+Wisconsin,positive
+Texas,positive
+New York,neutral
+Massachusetts,positive
+Massachusetts,neutral
+Ohio,neutral
+Ohio,neutral
+Florida,negative
+New York,negative
+New York,positive
+New York,neutral
+Georgia,neutral
+New York,neutral
+New York,positive
+New York,positive
+New York,negative
+New York,negative
+Illinois,negative
+Georgia,neutral
+Illinois,neutral
+New York,neutral
+Illinois,neutral
+New York,negative
+New York,positive
+Maryland,positive
+Washington,positive
+New York,neutral
+New York,positive
+New York,negative
+New York,negative
+New York,positive
+New York,positive
+Washington,positive
+New York,neutral
+Alabama,negative
+New York,neutral
+Florida,negative
+Washington,positive
+New York,neutral
+New York,neutral
+New York,neutral
+Tennessee,negative
+Washington,neutral
+New York,neutral
+New York,neutral
+Arizona,positive
+New York,neutral
+Maryland,positive
+New Mexico,positive
+New York,positive
+Kentucky,neutral
+Nebraska,positive
+New York,neutral
+Arizona,negative
+New York,positive
+Florida,positive
+Florida,neutral
+Florida,positive
+Connecticut,positive
+New York,neutral
+Washington,positive
+New York,positive
+New York,negative
+New York,positive
+New York,negative
+New York,negative
+Oregon,neutral
+New York,neutral
+New York,neutral
+California,neutral
+Ohio,positive
+Texas,neutral
+California,negative
+New York,neutral
+New York,positive
+New York,neutral
+California,neutral
+Arizona,neutral
+Florida,neutral
+Colorado,neutral
+Illinois,neutral
+Colorado,neutral
+Colorado,neutral
+Colorado,neutral
+Colorado,neutral
+California,neutral
+Illinois,neutral
+Texas,positive
+Pennsylvania,neutral
+Texas,neutral
+Virginia,neutral
+California,neutral
+Ohio,neutral
+Arizona,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Oregon,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+California,negative
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+California,neutral
+California,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+California,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Missouri,negative
+California,positive
+New York,neutral
+Colorado,negative
+Alabama,negative
+New Jersey,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Illinois,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Arizona,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Missouri,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Illinois,neutral
+New Jersey,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+California,neutral
+Delaware,positive
+New York,neutral
+New York,neutral
+New York,neutral
+Ohio,positive
+Pennsylvania,negative
+New York,neutral
+Iowa,positive
+Maryland,neutral
+New York,neutral
+Illinois,negative
+New York,neutral
+Illinois,negative
+California,neutral
+North Carolina,neutral
+California,neutral
+Virginia,negative
+Virginia,negative
+Minnesota,neutral
+Virginia,negative
+Florida,neutral
+Washington,neutral
+Ohio,negative
+New York,positive
+Florida,positive
+New Jersey,negative
+New York,neutral
+Illinois,neutral
+Pennsylvania,neutral
+California,neutral
+California,negative
+Texas,neutral
+New York,positive
+Texas,neutral
+New York,neutral
+Florida,positive
+Virginia,neutral
+Washington,positive
+Texas,neutral
+Texas,neutral
+North Carolina,negative
+New York,positive
+New York,positive
+Massachusetts,neutral
+Washington,negative
+Kansas,neutral
+North Carolina,neutral
+New York,positive
+New York,neutral
+California,negative
+North Carolina,neutral
+Illinois,neutral
+North Carolina,negative
+Illinois,negative
+Illinois,negative
+Illinois,neutral
+North Carolina,neutral
+Illinois,neutral
+Florida,positive
+Georgia,neutral
+Illinois,negative
+North Carolina,neutral
+Illinois,neutral
+Illinois,neutral
+North Carolina,neutral
+Illinois,neutral
+Illinois,neutral
+Illinois,neutral
+Colorado,neutral
+Illinois,neutral
+Illinois,negative
+Illinois,neutral
+Illinois,neutral
+Illinois,neutral
+North Carolina,positive
+Texas,positive
+Illinois,negative
+Illinois,neutral
+Washington,neutral
+Illinois,neutral
+New York,negative
+Illinois,neutral
+Michigan,negative
+Illinois,negative
+Illinois,negative
+Illinois,negative
+Illinois,positive
+North Carolina,neutral
+Illinois,positive
+Texas,neutral
+New York,negative
+North Carolina,positive
+Illinois,negative
+Georgia,positive
+Illinois,negative
+Illinois,negative
+Illinois,neutral
+Illinois,negative
+Illinois,neutral
+Illinois,negative
+Illinois,negative
+Illinois,neutral
+Illinois,neutral
+Illinois,neutral
+California,neutral
+California,positive
+California,positive
+Washington,neutral
+New York,neutral
+New York,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+California,neutral
+New Mexico,neutral
+Connecticut,positive
+New York,neutral
+Virginia,negative
+New York,neutral
+New York,neutral
+New York,neutral
+New Jersey,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+California,negative
+California,negative
+New York,neutral
+New York,neutral
+New York,neutral
+New York,negative
+Wisconsin,negative
+Pennsylvania,positive
+New York,positive
+Pennsylvania,neutral
+New York,neutral
+North Carolina,positive
+Illinois,positive
+New York,positive
+New York,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Nevada,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Florida,neutral
+Ohio,neutral
+California,positive
+Ohio,negative
+Minnesota,negative
+Hawaii,neutral
+Washington,positive
+New York,negative
+New York,neutral
+Minnesota,positive
+Illinois,negative
+Washington,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Massachusetts,neutral
+Florida,negative
+California,positive
+Florida,positive
+Illinois,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Florida,neutral
+Texas,positive
+Texas,positive
+New York,positive
+Florida,positive
+Texas,positive
+California,positive
+Pennsylvania,neutral
+Illinois,neutral
+Washington,positive
+California,positive
+North Carolina,positive
+Iowa,positive
+California,negative
+New York,positive
+Florida,neutral
+Florida,positive
+New York,neutral
+Florida,positive
+Florida,negative
+Texas,neutral
+Florida,neutral
+California,neutral
+Texas,neutral
+Florida,neutral
+Florida,positive
+Missouri,negative
+New York,neutral
+California,negative
+New York,neutral
+Florida,positive
+Alabama,negative
+Nevada,positive
+Maryland,neutral
+New York,negative
+Washington,neutral
+Pennsylvania,neutral
+Pennsylvania,neutral
+Pennsylvania,neutral
+Virginia,neutral
+Georgia,neutral
+Massachusetts,positive
+Pennsylvania,positive
+California,neutral
+Florida,neutral
+Virginia,neutral
+New Jersey,neutral
+New Jersey,neutral
+Oregon,neutral
+North Carolina,positive
+Florida,negative
+Delaware,neutral
+Alabama,neutral
+Florida,positive
+Florida,negative
+Texas,neutral
+Illinois,negative
+Florida,neutral
+Pennsylvania,negative
+New York,neutral
+Pennsylvania,negative
+New York,positive
+New York,negative
+North Carolina,neutral
+New Mexico,positive
+Florida,neutral
+Texas,negative
+New York,negative
+New York,negative
+Wisconsin,positive
+California,positive
+California,neutral
+Illinois,neutral
+California,neutral
+Massachusetts,neutral
+Colorado,neutral
+Hawaii,neutral
+New York,negative
+New York,positive
+North Carolina,negative
+New York,neutral
+California,neutral
+Pennsylvania,negative
+Georgia,negative
+Washington,negative
+California,neutral
+New Jersey,neutral
+North Carolina,neutral
+North Carolina,negative
+Georgia,neutral
+New York,neutral
+Texas,negative
+New York,neutral
+Washington,negative
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Texas,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Washington,negative
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+California,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Ohio,neutral
+Delaware,negative
+South Carolina,neutral
+California,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Maryland,positive
+Maryland,neutral
+New York,positive
+New York,positive
+Florida,neutral
+New York,neutral
+New York,neutral
+Florida,neutral
+New York,neutral
+Illinois,neutral
+Ohio,positive
+Washington,neutral
+Florida,neutral
+Washington,neutral
+Delaware,neutral
+Texas,neutral
+Texas,neutral
+New York,neutral
+New York,neutral
+Washington,positive
+Washington,neutral
+Illinois,positive
+New York,neutral
+Pennsylvania,positive
+New Jersey,positive
+New York,neutral
+Texas,negative
+California,neutral
+Kansas,positive
+California,neutral
+New York,neutral
+California,neutral
+Maryland,positive
+Kansas,neutral
+California,neutral
+Illinois,neutral
+Maryland,negative
+North Carolina,neutral
+North Carolina,negative
+California,negative
+Pennsylvania,negative
+South Carolina,neutral
+North Carolina,positive
+North Carolina,neutral
+Iowa,negative
+New York,positive
+California,negative
+Michigan,negative
+Texas,neutral
+Washington,neutral
+New York,neutral
+Virginia,negative
+North Carolina,neutral
+Maryland,positive
+North Carolina,negative
+Florida,positive
+New York,negative
+Oregon,neutral
+Idaho,neutral
+Indiana,neutral
+New York,neutral
+Tennessee,positive
+Illinois,neutral
+California,positive
+California,negative
+Maryland,positive
+New York,neutral
+Florida,positive
+South Carolina,negative
+Washington,neutral
+Washington,neutral
+Washington,neutral
+Washington,neutral
+Washington,neutral
+California,negative
+Florida,negative
+California,negative
+Oklahoma,neutral
+Arizona,positive
+Georgia,neutral
+Georgia,neutral
+New York,neutral
+Ohio,positive
+Texas,neutral
+Washington,positive
+New York,positive
+South Carolina,neutral
+California,negative
+Oklahoma,neutral
+Arizona,positive
+Georgia,neutral
+Georgia,neutral
+New York,neutral
+Ohio,positive
+Texas,neutral
+Washington,positive
+New York,positive
+South Carolina,neutral
+Washington,negative
+Florida,neutral
+New Jersey,neutral
+Washington,negative
+Washington,positive
+Kansas,neutral
+Indiana,negative
+North Carolina,neutral
+Connecticut,positive
+California,negative
+New Jersey,negative
+California,neutral
+Massachusetts,neutral
+South Carolina,neutral
+New York,neutral
+Massachusetts,neutral
+Oregon,negative
+California,neutral
+South Carolina,neutral
+California,positive
+New York,negative
+North Carolina,positive
+Washington,negative
+California,neutral
+Washington,negative
+California,negative
+New York,negative
+California,negative
+Ohio,neutral
+California,neutral
+New York,neutral
+California,neutral
+California,neutral
+California,neutral
+Florida,neutral
+Washington,neutral
+Massachusetts,negative
+Texas,neutral
+Washington,neutral
+New York,neutral
+Illinois,negative
+California,negative
+California,positive
+New York,neutral
+Oklahoma,negative
+California,negative
+Virginia,negative
+California,neutral
+Ohio,positive
+California,negative
+California,negative
+Washington,positive
+Washington,negative
+New York,negative
+California,neutral
+Washington,positive
+California,negative
+Florida,neutral
+Utah,neutral
+Oregon,positive
+New York,positive
+Texas,positive
+New York,neutral
+Utah,neutral
+Washington,positive
+New York,positive
+Washington,negative
+Washington,negative
+New York,positive
+New York,positive
+Louisiana,neutral
+New York,neutral
+Florida,neutral
+New York,neutral
+Washington,neutral
+Washington,neutral
+Florida,neutral
+New York,neutral
+Indiana,positive
+Michigan,positive
+Colorado,neutral
+Pennsylvania,negative
+Washington,positive
+Delaware,neutral
+Connecticut,positive
+Massachusetts,positive
+Connecticut,positive
+Washington,positive
+Virginia,neutral
+Washington,negative
+California,negative
+Utah,neutral
+Indiana,positive
+Washington,positive
+Tennessee,neutral
+Illinois,negative
+Washington,positive
+California,positive
+California,negative
+Oklahoma,neutral
+Washington,neutral
+Washington,positive
+New York,neutral
+Washington,positive
+Arkansas,neutral
+Nebraska,neutral
+New York,negative
+Washington,neutral
+Massachusetts,neutral
+California,positive
+North Carolina,neutral
+Oregon,neutral
+New York,neutral
+Washington,neutral
+Washington,neutral
+California,neutral
+Maryland,neutral
+Louisiana,negative
+Illinois,negative
+New York,positive
+New York,neutral
+Maryland,neutral
+Maryland,neutral
+California,neutral
+New York,neutral
+Illinois,positive
+New York,positive
+New York,negative
+New York,negative
+Hawaii,negative
+New York,neutral
+Illinois,positive
+Nevada,neutral
+Hawaii,neutral
+New York,negative
+New York,negative
+Washington,neutral
+New York,neutral
+Maryland,neutral
+Washington,positive
+Oklahoma,negative
+Maryland,neutral
+New York,negative
+Washington,neutral
+New York,negative
+Washington,neutral
+Nevada,positive
+New York,neutral
+California,positive
+Indiana,positive
+Ohio,negative
+Ohio,positive
+California,neutral
+Florida,positive
+California,positive
+Minnesota,neutral
+California,negative
+California,negative
+New York,neutral
+New York,neutral
+Texas,neutral
+Oregon,neutral
+New York,neutral
+Washington,neutral
+New York,positive
+Texas,neutral
+New York,positive
+California,neutral
+Utah,neutral
+Washington,neutral
+South Carolina,positive
+New York,positive
+New York,negative
+Pennsylvania,neutral
+Pennsylvania,neutral
+California,positive
+Illinois,neutral
+New York,positive
+Illinois,negative
+New York,negative
+New York,positive
+Texas,negative
+Georgia,positive
+Texas,negative
+New York,negative
+California,negative
+California,neutral
+Georgia,negative
+Washington,neutral
+New York,negative
+New York,positive
+New Jersey,positive
+Illinois,positive
+Illinois,positive
+New York,negative
+New York,positive
+New Jersey,neutral
+Illinois,positive
+Hawaii,neutral
+Illinois,negative
+Wisconsin,neutral
+Georgia,positive
+New York,neutral
+California,neutral
+North Carolina,neutral
+Arizona,negative
+California,neutral
+New York,negative
+Vermont,positive
+Illinois,negative
+New York,neutral
+California,positive
+Georgia,neutral
+Washington,positive
+Utah,neutral
+Iowa,positive
+Wisconsin,positive
+Arizona,neutral
+New York,positive
+Minnesota,positive
+New York,positive
+California,neutral
+New York,positive
+Illinois,positive
+New York,negative
+Georgia,positive
+Minnesota,neutral
+New York,neutral
+Georgia,negative
+Wisconsin,positive
+New York,neutral
+New York,positive
+New York,negative
+New York,negative
+Michigan,neutral
+Washington,neutral
+Illinois,negative
+Kansas,neutral
+Washington,negative
+Illinois,positive
+Illinois,neutral
+New York,negative
+New York,negative
+Illinois,negative
+Virginia,neutral
+Florida,neutral
+California,positive
+California,neutral
+New York,positive
+North Carolina,neutral
+Connecticut,neutral
+Illinois,negative
+California,negative
+Arizona,positive
+New York,positive
+North Carolina,negative
+New York,neutral
+New York,neutral
+New York,negative
+Arizona,neutral
+New York,neutral
+New York,neutral
+Virginia,negative
+Georgia,neutral
+Texas,positive
+New York,negative
+New York,neutral
+New York,negative
+New York,neutral
+Washington,neutral
+New York,negative
+California,neutral
+California,positive
+New York,neutral
+Tennessee,neutral
+Arizona,positive
+Texas,neutral
+Connecticut,positive
+Florida,negative
+New York,neutral
+Arizona,negative
+California,neutral
+New York,neutral
+Oregon,neutral
+Washington,positive
+Texas,negative
+Washington,positive
+Florida,negative
+Washington,negative
+New York,negative
+Oregon,positive
+New York,negative
+North Carolina,positive
+New York,positive
+California,neutral
+Vermont,positive
+Texas,positive
+New York,negative
+Texas,negative
+Washington,negative
+New York,neutral
+New York,positive
+Maryland,negative
+New York,neutral
+New York,neutral
+Washington,positive
+New York,neutral
+Washington,neutral
+New York,neutral
+New York,negative
+Virginia,positive
+New York,neutral
+New York,neutral
+Montana,neutral
+Montana,neutral
+Montana,neutral
+Washington,neutral
+Montana,neutral
+New York,negative
+Virginia,negative
+Indiana,positive
+Oregon,positive
+New York,positive
+New York,neutral
+New Mexico,positive
+New York,neutral
+Virginia,neutral
+Ohio,negative
+Connecticut,negative
+New York,positive
+New York,neutral
+California,positive
+New York,neutral
+Georgia,positive
+Texas,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Wisconsin,neutral
+New York,positive
+Texas,positive
+New York,positive
+Hawaii,neutral
+California,positive
+New York,negative
+California,neutral
+Nebraska,positive
+New York,neutral
+Washington,neutral
+California,neutral
+New York,neutral
+Texas,positive
+Texas,neutral
+California,neutral
+Texas,positive
+Florida,negative
+New York,neutral
+Pennsylvania,negative
+California,neutral
+New York,positive
+California,neutral
+Pennsylvania,positive
+Nevada,positive
+New York,positive
+New York,positive
+Florida,neutral
+Washington,neutral
+California,neutral
+California,neutral
+Florida,negative
+New York,positive
+California,neutral
+California,positive
+Indiana,negative
+Illinois,positive
+New York,neutral
+New York,negative
+California,neutral
+Georgia,negative
+New York,neutral
+New York,neutral
+New York,negative
+New York,positive
+New York,positive
+New York,neutral
+New York,neutral
+New York,negative
+Utah,negative
+Georgia,neutral
+Georgia,neutral
+South Carolina,positive
+Pennsylvania,neutral
+Texas,neutral
+Georgia,positive
+New Jersey,positive
+New York,neutral
+California,negative
+New York,neutral
+California,neutral
+New York,positive
+Florida,neutral
+Colorado,positive
+California,negative
+New York,neutral
+New York,neutral
+New York,negative
+Colorado,neutral
+Colorado,neutral
+Pennsylvania,positive
+California,neutral
+Maryland,neutral
+Pennsylvania,negative
+Ohio,positive
+Florida,positive
+New York,positive
+New York,positive
+California,positive
+Pennsylvania,neutral
+Alabama,neutral
+California,negative
+Texas,negative
+Pennsylvania,positive
+New York,neutral
+New York,neutral
+Oregon,neutral
+California,neutral
+Michigan,negative
+Maryland,negative
+Pennsylvania,neutral
+New York,positive
+California,neutral
+New York,neutral
+New York,positive
+Hawaii,neutral
+Georgia,neutral
+Pennsylvania,negative
+Pennsylvania,negative
+California,neutral
+New York,negative
+New York,neutral
+New York,neutral
+New Jersey,positive
+Illinois,positive
+California,neutral
+New York,neutral
+Georgia,neutral
+New York,positive
+New York,neutral
+Massachusetts,positive
+Georgia,positive
+New York,positive
+California,neutral
+Georgia,negative
+Rhode Island,negative
+New York,neutral
+Vermont,neutral
+New York,positive
+New Mexico,negative
+Vermont,positive
+New York,neutral
+Michigan,positive
+New York,negative
+California,positive
+California,neutral
+Ohio,positive
+New York,neutral
+Florida,neutral
+New York,neutral
+Georgia,neutral
+California,positive
+Illinois,positive
+Washington,negative
+California,negative
+California,negative
+New York,neutral
+California,negative
+New York,neutral
+New York,negative
+California,neutral
+California,negative
+California,neutral
+New York,neutral
+California,positive
+New York,negative
+New York,neutral
+New York,neutral
+California,positive
+Connecticut,neutral
+New York,neutral
+California,neutral
+New York,negative
+New York,negative
+Washington,negative
+Pennsylvania,positive
+California,negative
+Nevada,neutral
+New York,neutral
+Colorado,neutral
+New York,neutral
+New York,neutral
+New York,positive
+New York,positive
+Pennsylvania,neutral
+Washington,negative
+California,negative
+Pennsylvania,negative
+California,negative
+Pennsylvania,neutral
+New York,neutral
+Minnesota,negative
+New York,negative
+Washington,neutral
+Alabama,negative
+New York,negative
+Pennsylvania,positive
+New York,positive
+Washington,positive
+North Carolina,neutral
+New York,positive
+New York,positive
+New York,positive
+California,neutral
+Ohio,positive
+New York,neutral
+Georgia,positive
+New York,positive
+New York,negative
+New York,neutral
+Texas,neutral
+New York,neutral
+New York,positive
+New York,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+California,negative
+Michigan,negative
+Pennsylvania,positive
+Washington,positive
+Florida,neutral
+New York,positive
+New York,negative
+Massachusetts,negative
+New York,positive
+New York,negative
+New York,negative
+New York,neutral
+Pennsylvania,negative
+Florida,neutral
+Florida,neutral
+New York,negative
+California,neutral
+New York,positive
+Washington,positive
+New York,negative
+California,neutral
+California,positive
+California,positive
+California,neutral
+New York,neutral
+Washington,positive
+New York,neutral
+Florida,neutral
+New York,neutral
+Georgia,positive
+Minnesota,neutral
+Washington,neutral
+New York,neutral
+Washington,negative
+New York,neutral
+New York,neutral
+Texas,positive
+Washington,positive
+Iowa,neutral
+Washington,negative
+New York,negative
+New York,neutral
+Pennsylvania,positive
+New York,positive
+Washington,neutral
+Arkansas,positive
+Massachusetts,negative
+California,neutral
+New York,positive
+Washington,positive
+California,neutral
+California,negative
+Pennsylvania,neutral
+Alabama,negative
+New York,neutral
+Massachusetts,positive
+Hawaii,negative
+Kentucky,positive
+New York,neutral
+Florida,neutral
+Washington,negative
+Hawaii,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Oregon,neutral
+New York,positive
+Florida,negative
+New York,neutral
+Kansas,negative
+New York,neutral
+New Hampshire,negative
+Vermont,neutral
+Arizona,positive
+Missouri,neutral
+Kentucky,neutral
+Hawaii,neutral
+New York,positive
+New York,negative
+Oregon,negative
+Kansas,positive
+New York,neutral
+New York,neutral
+California,neutral
+Florida,negative
+New York,neutral
+Illinois,positive
+Illinois,positive
+Kentucky,positive
+Pennsylvania,neutral
+Washington,neutral
+Washington,neutral
+New York,positive
+Florida,neutral
+Louisiana,negative
+Kentucky,negative
+Washington,negative
+Washington,neutral
+New York,positive
+Nevada,neutral
+Washington,negative
+New York,negative
+New Jersey,positive
+New York,neutral
+Washington,negative
+Virginia,negative
+New York,neutral
+California,neutral
+New Jersey,positive
+California,neutral
+New York,positive
+Illinois,negative
+California,neutral
+California,positive
+Washington,neutral
+Colorado,positive
+California,neutral
+Illinois,neutral
+California,neutral
+Washington,positive
+New York,positive
+Illinois,neutral
+Hawaii,neutral
+Illinois,neutral
+New York,positive
+New York,neutral
+Idaho,negative
+New York,neutral
+Connecticut,positive
+New York,positive
+Washington,neutral
+Illinois,neutral
+New York,neutral
+Texas,positive
+New York,negative
+Texas,neutral
+Utah,neutral
+Illinois,negative
+New York,negative
+Florida,negative
+New York,positive
+New York,neutral
+Washington,positive
+California,neutral
+New York,positive
+New York,positive
+Kentucky,neutral
+Washington,negative
+New York,neutral
+New York,neutral
+New York,positive
+New York,negative
+New York,negative
+New York,neutral
+New York,positive
+New York,neutral
+New York,positive
+Illinois,positive
+New Hampshire,neutral
+Oregon,negative
+Ohio,neutral
+California,neutral
+California,neutral
+New Jersey,neutral
+Oregon,neutral
+California,neutral
+New York,negative
+New York,neutral
+Illinois,negative
+New York,neutral
+New York,neutral
+Ohio,neutral
+Illinois,neutral
+Washington,positive
+Ohio,negative
+Connecticut,positive
+Illinois,negative
+Florida,positive
+Virginia,negative
+New York,positive
+Tennessee,neutral
+Illinois,negative
+Colorado,positive
+New York,negative
+New York,positive
+New Jersey,positive
+New York,positive
+New York,neutral
+New York,neutral
+Massachusetts,positive
+Utah,negative
+New York,positive
+Connecticut,positive
+Texas,negative
+Washington,positive
+New York,neutral
+Washington,positive
+New York,neutral
+Georgia,neutral
+Washington,neutral
+Washington,positive
+Ohio,neutral
+New York,positive
+Washington,neutral
+Ohio,neutral
+New York,neutral
+New Mexico,positive
+Massachusetts,neutral
+Washington,positive
+Ohio,positive
+Washington,neutral
+Oregon,negative
+Michigan,negative
+New York,positive
+Michigan,neutral
+New York,positive
+New York,negative
+Hawaii,neutral
+New York,positive
+New York,negative
+California,neutral
+New York,negative
+Texas,positive
+New York,positive
+California,positive
+California,neutral
+Texas,neutral
+California,neutral
+Pennsylvania,positive
+Wisconsin,positive
+California,neutral
+Pennsylvania,positive
+California,neutral
+Pennsylvania,negative
+Pennsylvania,negative
+New York,neutral
+California,neutral
+New York,neutral
+New York,neutral
+Texas,neutral
+New York,neutral
+Illinois,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Tennessee,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Florida,negative
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+California,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+California,neutral
+Florida,negative
+New York,positive
+California,negative
+New York,neutral
+Florida,positive
+New York,neutral
+New York,neutral
+Florida,neutral
+New York,neutral
+California,neutral
+New York,neutral
+New York,neutral
+New York,positive
+New York,neutral
+New York,neutral
+California,neutral
+California,neutral
+Texas,neutral
+California,neutral
+California,neutral
+California,neutral
+California,neutral
+Texas,positive
+California,negative
+New York,neutral
+Florida,positive
+Washington,negative
+Nevada,positive
+Washington,neutral
+Nebraska,neutral
+Vermont,positive
+Texas,neutral
+Washington,neutral
+Louisiana,positive
+California,neutral
+Michigan,negative
+Illinois,neutral
+Indiana,positive
+Florida,negative
+California,positive
+New York,neutral
+New York,neutral
+Florida,negative
+South Carolina,neutral
+California,neutral
+Florida,positive
+California,neutral
+Florida,neutral
+Nebraska,neutral
+Florida,negative
+California,neutral
+California,neutral
+Washington,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+California,neutral
+Michigan,neutral
+New York,neutral
+New York,neutral
+California,positive
+California,neutral
+California,neutral
+California,neutral
+New Jersey,neutral
+California,neutral
+California,neutral
+Massachusetts,negative
+New York,neutral
+Minnesota,neutral
+New York,positive
+Colorado,neutral
+Massachusetts,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Washington,neutral
+New York,neutral
+Florida,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Ohio,positive
+Texas,neutral
+New York,negative
+New York,negative
+California,neutral
+Ohio,neutral
+New York,neutral
+California,negative
+California,positive
+Arizona,negative
+Ohio,positive
+Arkansas,positive
+Ohio,positive
+New York,neutral
+New York,negative
+New York,neutral
+Ohio,neutral
+Ohio,positive
+New York,neutral
+California,positive
+New York,neutral
+New York,neutral
+New York,neutral
+Arizona,positive
+Kentucky,negative
+Massachusetts,negative
+Pennsylvania,neutral
+California,positive
+Pennsylvania,positive
+Massachusetts,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,negative
+Washington,positive
+Illinois,negative
+Washington,negative
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Illinois,negative
+California,positive
+Washington,neutral
+Texas,positive
+Washington,neutral
+Illinois,negative
+Washington,neutral
+Illinois,negative
+Illinois,neutral
+Illinois,positive
+Illinois,neutral
+California,positive
+Illinois,positive
+Illinois,neutral
+Illinois,negative
+Illinois,negative
+Utah,positive
+Indiana,negative
+Illinois,neutral
+Tennessee,negative
+California,positive
+New York,neutral
+Minnesota,negative
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Illinois,negative
+New York,neutral
+New York,neutral
+New York,negative
+New York,neutral
+New York,neutral
+New York,neutral
+South Carolina,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New York,negative
+Washington,positive
+New York,neutral
+Washington,negative
+Texas,neutral
+Alabama,neutral
+New York,negative
+Washington,neutral
+California,negative
+Massachusetts,positive
+New York,neutral
+California,neutral
+New York,neutral
+New York,positive
+New York,neutral
+New York,neutral
+New York,positive
+New York,neutral
+Washington,neutral
+New York,negative
+New York,neutral
+Washington,neutral
+New York,neutral
+New York,positive
+New York,neutral
+Washington,neutral
+Washington,negative
+Pennsylvania,positive
+New York,neutral
+New Hampshire,neutral
+New York,neutral
+Pennsylvania,negative
+Washington,neutral
+Hawaii,negative
+California,neutral
+Washington,negative
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Hawaii,neutral
+New York,positive
+Georgia,positive
+New York,neutral
+Pennsylvania,positive
+New York,neutral
+New York,neutral
+New York,positive
+New York,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Pennsylvania,neutral
+California,neutral
+New York,neutral
+Pennsylvania,negative
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Tennessee,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+California,neutral
+New York,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Pennsylvania,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Oklahoma,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Arizona,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Illinois,negative
+New York,negative
+New York,negative
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Florida,positive
+New York,neutral
+New York,neutral
+California,neutral
+New York,neutral
+California,negative
+Washington,positive
+New York,neutral
+California,neutral
+California,positive
+New York,neutral
+California,negative
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Florida,positive
+Washington,neutral
+Illinois,neutral
+Hawaii,neutral
+Ohio,negative
+Florida,neutral
+New York,neutral
+New York,positive
+Pennsylvania,neutral
+Georgia,neutral
+California,neutral
+Vermont,neutral
+California,negative
+Washington,positive
+California,negative
+New York,negative
+Ohio,negative
+Washington,neutral
+Washington,neutral
+Indiana,neutral
+Washington,positive
+Washington,positive
+New York,neutral
+New Jersey,neutral
+New York,negative
+Massachusetts,negative
+New York,neutral
+Massachusetts,positive
+New York,positive
+Florida,neutral
+New York,neutral
+California,positive
+California,positive
+Maryland,positive
+New York,negative
+Washington,positive
+Massachusetts,positive
+New York,neutral
+Oklahoma,negative
+Vermont,positive
+California,neutral
+Texas,neutral
+Florida,neutral
+Georgia,neutral
+New York,negative
+New York,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New York,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New Mexico,positive
+New York,neutral
+California,negative
+Washington,positive
+Alabama,negative
+Washington,negative
+Oregon,neutral
+New York,positive
+Oregon,neutral
+Utah,negative
+New York,neutral
+Washington,neutral
+Washington,neutral
+New York,neutral
+California,neutral
+New York,neutral
+New York,neutral
+California,negative
+Georgia,negative
+Georgia,neutral
+Washington,neutral
+New York,positive
+Texas,neutral
+California,neutral
+California,negative
+Washington,positive
+Maine,neutral
+Illinois,positive
+Washington,positive
+California,positive
+California,neutral
+Kansas,neutral
+Georgia,neutral
+Illinois,positive
+Pennsylvania,positive
+New Jersey,neutral
+Florida,neutral
+Massachusetts,negative
+Massachusetts,positive
+Massachusetts,negative
+Arizona,neutral
+California,neutral
+Colorado,neutral
+New York,positive
+New York,neutral
+Texas,neutral
+Florida,neutral
+New Jersey,negative
+New York,neutral
+Michigan,positive
+Louisiana,positive
+Arizona,positive
+New York,neutral
+Arizona,positive
+New York,neutral
+North Carolina,positive
+Washington,negative
+Massachusetts,positive
+Nevada,neutral
+Washington,negative
+Washington,positive
+Florida,neutral
+Arizona,negative
+New York,negative
+Ohio,positive
+New York,negative
+California,negative
+Mississippi,neutral
+California,neutral
+California,neutral
+Arizona,neutral
+New Jersey,positive
+Mississippi,negative
+Indiana,positive
+Washington,neutral
+New York,neutral
+Virginia,negative
+New York,positive
+New York,neutral
+New York,positive
+Iowa,negative
+California,negative
+New York,negative
+Texas,negative
+New York,neutral
+New York,negative
+Minnesota,negative
+Alabama,negative
+Illinois,positive
+New York,positive
+New York,positive
+Michigan,neutral
+Ohio,positive
+California,negative
+Pennsylvania,positive
+Ohio,positive
+Pennsylvania,neutral
+New York,neutral
+Florida,neutral
+New Jersey,positive
+California,positive
+California,negative
+New York,neutral
+Massachusetts,positive
+New York,neutral
+Pennsylvania,negative
+Oregon,neutral
+Pennsylvania,negative
+New York,neutral
+Vermont,neutral
+Indiana,neutral
+California,neutral
+New York,neutral
+Florida,negative
+South Carolina,positive
+New York,neutral
+Massachusetts,neutral
+Tennessee,negative
+California,neutral
+Massachusetts,negative
+Indiana,neutral
+Massachusetts,neutral
+Colorado,positive
+New York,negative
+New York,negative
+California,neutral
+California,negative
+Massachusetts,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+California,neutral
+New York,neutral
+Maryland,neutral
+Massachusetts,neutral
+Georgia,neutral
+Illinois,positive
+Massachusetts,negative
+Arizona,neutral
+New York,neutral
+California,positive
+Hawaii,neutral
+North Carolina,positive
+Kansas,negative
+Georgia,neutral
+Florida,positive
+New York,neutral
+Connecticut,positive
+California,neutral
+Virginia,negative
+New York,neutral
+New York,negative
+Florida,positive
+North Carolina,neutral
+New York,positive
+New York,neutral
+Illinois,positive
+North Carolina,neutral
+Oklahoma,neutral
+North Carolina,negative
+Massachusetts,neutral
+Florida,neutral
+Florida,neutral
+Florida,neutral
+Florida,neutral
+Massachusetts,negative
+New York,neutral
+Oregon,neutral
+Florida,positive
+Florida,negative
+North Carolina,positive
+New York,positive
+Alabama,positive
+California,negative
+Texas,neutral
+New York,negative
+New York,negative
+New York,positive
+New York,negative
+New York,neutral
+California,neutral
+New Jersey,positive
+Georgia,negative
+Florida,neutral
+Ohio,positive
+Florida,positive
+Hawaii,neutral
+New York,neutral
+Indiana,neutral
+Ohio,positive
+Colorado,neutral
+New York,neutral
+Delaware,neutral
+Maryland,positive
+New York,neutral
+New York,negative
+Texas,negative
+Texas,positive
+Texas,neutral
+Texas,positive
+Alabama,neutral
+Florida,negative
+Ohio,neutral
+Texas,positive
+Mississippi,neutral
+Virginia,neutral
+Florida,positive
+Massachusetts,negative
+New York,positive
+New Hampshire,positive
+Florida,neutral
+Massachusetts,positive
+New York,negative
+New York,negative
+Florida,negative
+Georgia,positive
+New York,neutral
+New York,negative
+New York,neutral
+New York,neutral
+Mississippi,neutral
+New Jersey,neutral
+Texas,neutral
+Vermont,neutral
+New York,negative
+Washington,neutral
+Maryland,neutral
+New York,negative
+Texas,neutral
+Tennessee,positive
+Washington,positive
+New York,neutral
+Arizona,positive
+New York,positive
+New York,neutral
+Michigan,positive
+New York,positive
+Washington,positive
+New York,neutral
+New York,neutral
+Washington,negative
+Michigan,neutral
+Washington,positive
+Washington,neutral
+Texas,neutral
+Virginia,negative
+New York,positive
+Illinois,positive
+Washington,positive
+New York,neutral
+New York,neutral
+Texas,positive
+Texas,negative
+Maryland,positive
+Washington,neutral
+New York,positive
+New York,neutral
+Delaware,positive
+Vermont,neutral
+New York,negative
+New York,positive
+New York,neutral
+Iowa,positive
+New York,negative
+California,negative
+California,negative
+New York,neutral
+Iowa,positive
+New York,neutral
+New York,positive
+New Mexico,positive
+New York,neutral
+Florida,neutral
+New York,neutral
+New York,neutral
+New York,negative
+New York,positive
+Florida,neutral
+California,positive
+Hawaii,neutral
+New York,neutral
+Georgia,positive
+California,neutral
+New York,negative
+New York,positive
+New York,neutral
+New York,negative
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,positive
+New York,negative
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Maryland,neutral
+Texas,neutral
+California,neutral
+Oregon,neutral
+Oregon,neutral
+Oregon,neutral
+Florida,neutral
+California,negative
+Oregon,neutral
+Ohio,positive
+Massachusetts,negative
+Oregon,neutral
+Iowa,negative
+Ohio,negative
+California,neutral
+Florida,neutral
+Florida,neutral
+Florida,neutral
+Georgia,positive
+California,positive
+Iowa,positive
+Pennsylvania,negative
+Oregon,neutral
+Illinois,positive
+Illinois,neutral
+California,negative
+Oregon,neutral
+Virginia,positive
+California,positive
+Pennsylvania,neutral
+Kansas,positive
+Ohio,positive
+Virginia,neutral
+Florida,negative
+New York,neutral
+Virginia,neutral
+Washington,positive
+Arizona,neutral
+Oregon,neutral
+Colorado,negative
+Arizona,neutral
+New York,neutral
+Oregon,neutral
+Pennsylvania,neutral
+New York,positive
+Texas,neutral
+California,positive
+Wyoming,negative
+Washington,neutral
+Oregon,neutral
+New Jersey,neutral
+Texas,positive
+Georgia,neutral
+Illinois,positive
+Indiana,neutral
+Illinois,neutral
+Oregon,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+California,negative
+Oregon,neutral
+Washington,negative
+New York,neutral
+California,negative
+Florida,neutral
+New York,neutral
+New York,neutral
+Oregon,neutral
+Illinois,neutral
+New York,neutral
+Massachusetts,neutral
+Georgia,negative
+Ohio,neutral
+Massachusetts,negative
+Florida,neutral
+Florida,neutral
+Hawaii,neutral
+Alabama,neutral
+Oregon,neutral
+Minnesota,positive
+Missouri,neutral
+Missouri,neutral
+Pennsylvania,neutral
+Ohio,positive
+California,negative
+Illinois,neutral
+Oregon,neutral
+California,neutral
+Illinois,positive
+New York,neutral
+New York,positive
+New York,negative
+California,negative
+Washington,positive
+Florida,neutral
+New York,neutral
+Colorado,positive
+New York,neutral
+Arkansas,positive
+New York,neutral
+Mississippi,negative
+New York,neutral
+California,positive
+Washington,neutral
+Oregon,neutral
+New York,negative
+Texas,negative
+Utah,neutral
+Washington,negative
+South Carolina,negative
+Georgia,negative
+California,positive
+New York,positive
+Arizona,neutral
+New York,positive
+Virginia,negative
+Oregon,positive
+Illinois,positive
+Texas,neutral
+Texas,neutral
+New York,positive
+South Dakota,negative
+Oregon,neutral
+Illinois,neutral
+Illinois,negative
+Minnesota,neutral
+Minnesota,neutral
+Minnesota,neutral
+Minnesota,neutral
+New York,positive
+Vermont,neutral
+New York,neutral
+California,neutral
+Washington,negative
+California,neutral
+Tennessee,negative
+Illinois,neutral
+Vermont,negative
+California,neutral
+New York,positive
+Washington,positive
+New York,neutral
+Hawaii,neutral
+New York,neutral
+Vermont,neutral
+Ohio,positive
+New York,negative
+New York,neutral
+Texas,neutral
+Florida,positive
+Florida,neutral
+Virginia,neutral
+Florida,positive
+California,negative
+Virginia,neutral
+New Jersey,positive
+New York,neutral
+Florida,positive
+California,positive
+Tennessee,positive
+California,neutral
+Colorado,positive
+New Mexico,neutral
+Florida,neutral
+Hawaii,negative
+Washington,neutral
+New Jersey,negative
+California,neutral
+Oklahoma,neutral
+New York,neutral
+Florida,neutral
+Florida,neutral
+Hawaii,neutral
+Ohio,neutral
+New York,positive
+New York,positive
+California,neutral
+New York,neutral
+Illinois,neutral
+Maryland,negative
+Florida,neutral
+Georgia,neutral
+Florida,positive
+California,negative
+Washington,neutral
+Pennsylvania,positive
+New York,neutral
+Texas,neutral
+Washington,negative
+California,negative
+Colorado,neutral
+Iowa,neutral
+Vermont,positive
+New York,positive
+New York,negative
+California,neutral
+New Hampshire,positive
+Texas,neutral
+New York,neutral
+Texas,positive
+New York,neutral
+New York,negative
+Nebraska,positive
+Texas,positive
+North Carolina,negative
+Maryland,positive
+California,neutral
+Florida,positive
+Florida,positive
+New York,positive
+California,neutral
+New York,negative
+Oklahoma,neutral
+New Mexico,negative
+California,negative
+Washington,neutral
+New York,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New York,positive
+North Carolina,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,positive
+New York,positive
+Pennsylvania,negative
+New York,neutral
+New York,negative
+New York,positive
+New York,positive
+New York,neutral
+New York,neutral
+New York,neutral
+Arizona,negative
+California,positive
+Florida,negative
+New York,neutral
+New York,positive
+New York,neutral
+New York,positive
+New York,positive
+Illinois,positive
+Hawaii,neutral
+Florida,neutral
+Texas,positive
+New York,neutral
+Texas,neutral
+Texas,neutral
+Georgia,positive
+New York,neutral
+Texas,neutral
+California,neutral
+New York,positive
+Michigan,positive
+Missouri,positive
+Washington,negative
+Ohio,positive
+Arizona,positive
+New York,positive
+New York,negative
+New York,neutral
+Kentucky,positive
+Ohio,positive
+New York,neutral
+Tennessee,negative
+Washington,neutral
+Washington,positive
+Washington,positive
+New York,neutral
+New York,positive
+New York,neutral
+Florida,neutral
+Ohio,neutral
+Florida,positive
+Washington,neutral
+Florida,neutral
+New York,positive
+New York,negative
+New York,neutral
+California,negative
+New York,neutral
+Illinois,positive
+New York,neutral
+Missouri,positive
+Washington,positive
+California,negative
+Texas,positive
+New York,neutral
+New York,positive
+North Carolina,positive
+Tennessee,positive
+California,positive
+Georgia,neutral
+Arizona,neutral
+Illinois,neutral
+Georgia,neutral
+Tennessee,negative
+New York,neutral
+Vermont,neutral
+Pennsylvania,neutral
+Nebraska,neutral
+New York,negative
+California,negative
+Washington,positive
+New York,negative
+New York,positive
+New York,positive
+New York,neutral
+Washington,neutral
+Washington,negative
+Virginia,positive
+New York,neutral
+New York,neutral
+California,neutral
+California,neutral
+Indiana,positive
+New York,neutral
+New York,positive
+New York,positive
+New York,negative
+New York,neutral
+New York,neutral
+Texas,positive
+Utah,positive
+Washington,positive
+New York,positive
+Illinois,positive
+New York,neutral
+New York,neutral
+New York,neutral
+Vermont,positive
+New York,neutral
+Oregon,neutral
+California,neutral
+Virginia,positive
+Virginia,neutral
+New York,neutral
+New York,positive
+Massachusetts,neutral
+Iowa,positive
+Ohio,neutral
+New York,negative
+New York,neutral
+New York,neutral
+Pennsylvania,positive
+New Mexico,positive
+New York,neutral
+New York,neutral
+New Jersey,negative
+New Hampshire,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+California,neutral
+New York,neutral
+New York,neutral
+Washington,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Minnesota,neutral
+Hawaii,neutral
+California,negative
+New York,neutral
+New York,neutral
+New York,negative
+New York,positive
+New York,neutral
+New York,positive
+New York,negative
+New York,neutral
+New York,neutral
+New York,negative
+New York,neutral
+New York,positive
+New York,positive
+New York,positive
+New York,neutral
+Minnesota,negative
+California,neutral
+New York,positive
+New York,neutral
+New York,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,positive
+New York,positive
+New York,positive
+New York,neutral
+New York,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+California,positive
+Texas,neutral
+California,neutral
+Georgia,negative
+Georgia,neutral
+Texas,positive
+Alabama,neutral
+Texas,positive
+Texas,neutral
+Texas,negative
+North Carolina,positive
+Washington,neutral
+Nevada,neutral
+Alabama,neutral
+Arizona,neutral
+Alabama,neutral
+Alabama,neutral
+Alabama,neutral
+Alabama,neutral
+Alabama,negative
+Wisconsin,positive
+Alabama,neutral
+New York,positive
+Illinois,positive
+Colorado,positive
+New York,neutral
+Pennsylvania,negative
+Illinois,negative
+Illinois,neutral
+Florida,neutral
+Washington,negative
+Missouri,neutral
+Arizona,negative
+Washington,neutral
+New York,positive
+New York,neutral
+New York,neutral
+California,neutral
+New York,negative
+New York,positive
+New York,positive
+New York,negative
+Nebraska,negative
+Washington,negative
+New York,neutral
+Florida,neutral
+Illinois,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Florida,neutral
+New York,positive
+California,positive
+Florida,neutral
+Florida,negative
+Florida,neutral
+Alabama,neutral
+New York,neutral
+New York,positive
+Pennsylvania,neutral
+New York,neutral
+New York,neutral
+Washington,negative
+New Jersey,neutral
+Georgia,neutral
+Virginia,negative
+Georgia,positive
+Massachusetts,positive
+Washington,positive
+New York,neutral
+Washington,negative
+Connecticut,positive
+Washington,negative
+Washington,negative
+Washington,negative
+New York,negative
+Illinois,neutral
+Washington,neutral
+California,negative
+California,neutral
+New York,negative
+New York,neutral
+Missouri,neutral
+Washington,positive
+California,neutral
+Washington,neutral
+Washington,neutral
+Washington,positive
+California,neutral
+New York,positive
+Tennessee,negative
+Hawaii,neutral
+South Carolina,neutral
+Tennessee,neutral
+North Carolina,neutral
+Washington,negative
+Massachusetts,neutral
+Illinois,positive
+New York,positive
+New York,negative
+New York,neutral
+Kentucky,positive
+Illinois,neutral
+Illinois,neutral
+Illinois,neutral
+New York,neutral
+Florida,neutral
+Washington,positive
+Florida,neutral
+California,positive
+Illinois,negative
+California,negative
+New York,neutral
+California,negative
+New York,neutral
+Oregon,neutral
+Georgia,neutral
+Georgia,neutral
+California,neutral
+California,negative
+Washington,neutral
+New York,neutral
+California,neutral
+Connecticut,positive
+Utah,negative
+Washington,positive
+Alaska,positive
+Ohio,negative
+New York,neutral
+Georgia,negative
+California,positive
+Georgia,negative
+Washington,neutral
+Washington,neutral
+Georgia,negative
+Illinois,neutral
+Illinois,neutral
+Washington,neutral
+Illinois,negative
+New York,positive
+Washington,neutral
+North Carolina,neutral
+California,neutral
+Illinois,negative
+Texas,neutral
+Colorado,neutral
+Illinois,negative
+Colorado,neutral
+Illinois,negative
+New York,neutral
+New York,positive
+Vermont,neutral
+Ohio,neutral
+California,positive
+Florida,neutral
+New York,positive
+Florida,positive
+Texas,neutral
+Texas,neutral
+Georgia,neutral
+Georgia,neutral
+Minnesota,neutral
+New York,neutral
+New York,positive
+Ohio,neutral
+California,negative
+Texas,neutral
+New Jersey,negative
+Texas,neutral
+Texas,neutral
+Hawaii,negative
+Ohio,positive
+Michigan,neutral
+New Jersey,neutral
+Hawaii,neutral
+Washington,neutral
+New York,neutral
+Massachusetts,negative
+Arizona,positive
+California,negative
+Utah,neutral
+New York,negative
+Florida,neutral
+Massachusetts,negative
+Massachusetts,neutral
+North Carolina,negative
+Washington,positive
+Texas,neutral
+New York,positive
+New York,neutral
+Oregon,neutral
+New York,neutral
+Texas,neutral
+New York,positive
+Texas,neutral
+Texas,neutral
+New Hampshire,neutral
+Pennsylvania,neutral
+Alabama,positive
+New York,neutral
+Washington,neutral
+Florida,neutral
+Texas,neutral
+New Jersey,neutral
+California,negative
+Oregon,neutral
+Massachusetts,neutral
+Massachusetts,neutral
+Massachusetts,positive
+Georgia,neutral
+Mississippi,neutral
+California,positive
+Washington,negative
+New York,negative
+Illinois,neutral
+Oregon,neutral
+Virginia,positive
+New Jersey,neutral
+Georgia,neutral
+Massachusetts,neutral
+Florida,positive
+California,negative
+Massachusetts,positive
+New York,positive
+California,positive
+Iowa,positive
+California,neutral
+Florida,neutral
+Arkansas,neutral
+Washington,neutral
+Washington,neutral
+Hawaii,neutral
+South Carolina,positive
+New York,neutral
+Florida,neutral
+New York,positive
+Arizona,negative
+Tennessee,neutral
+New York,neutral
+Pennsylvania,negative
+Washington,positive
+New York,neutral
+Alabama,positive
+Texas,negative
+he 'Mail on Sunday' has a list of the full stories the outlet squashed to help protect Trump.  #DonaldTrump #TrumpAffair http://zpr.io/6yawG ,neutral
+New York,positive
+Louisiana,positive
+New York,negative
+New York,neutral
+Washington,neutral
+New York,negative
+Oregon,neutral
+New York,neutral
+New York,negative
+New York,neutral
+New York,neutral
+Illinois,negative
+New York,neutral
+New York,neutral
+New York,neutral
+Florida,neutral
+New York,neutral
+Utah,positive
+Pennsylvania,neutral
+New York,positive
+Pennsylvania,neutral
+New York,positive
+New York,positive
+Massachusetts,positive
+Massachusetts,positive
+New York,neutral
+Ohio,negative
+California,neutral
+Washington,neutral
+Texas,neutral
+Florida,neutral
+Utah,positive
+Utah,positive
+New York,negative
+Utah,neutral
+Wisconsin,negative
+New York,positive
+Tennessee,neutral
+New York,neutral
+New York,neutral
+Florida,positive
+New York,neutral
+Kentucky,positive
+California,neutral
+New York,positive
+New York,positive
+New York,negative
+Massachusetts,neutral
+North Carolina,neutral
+New York,negative
+Massachusetts,positive
+New York,negative
+Texas,positive
+New York,positive
+New York,neutral
+Missouri,positive
+New York,negative
+New York,neutral
+Kentucky,neutral
+New York,neutral
+Arizona,positive
+Ohio,neutral
+New York,neutral
+Arizona,negative
+New York,neutral
+Vermont,neutral
+Ohio,neutral
+Ohio,neutral
+Georgia,positive
+Georgia,positive
+Illinois,negative
+Texas,neutral
+Illinois,neutral
+New York,positive
+New York,positive
+New York,neutral
+New York,negative
+Arizona,positive
+Illinois,positive
+Ohio,positive
+New York,neutral
+Virginia,positive
+New York,positive
+Michigan,neutral
+California,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+Tennessee,positive
+California,positive
+California,negative
+New York,neutral
+Minnesota,positive
+Arizona,positive
+California,negative
+California,neutral
+New York,neutral
+New York,positive
+New York,neutral
+New York,negative
+New York,positive
+New York,neutral
+New York,positive
+New York,neutral
+New York,neutral
+New York,neutral
+New York,negative
+New York,neutral
+New York,neutral
+New York,positive
+New York,neutral
+New York,neutral
+New York,neutral
+California,neutral
+New York,neutral
+Texas,positive
+Georgia,neutral
+New York,neutral
+New York,neutral
+New York,positive
+New York,positive
+New York,positive
+New York,negative
+New York,neutral
+New York,neutral
+New York,neutral
+New York,neutral
+New York,positive
+New York,negative
+New York,positive
+New York,neutral
+New York,positive
+New York,positive
+New York,neutral
+New York,positive
+New York,positive
+Texas,neutral
+California,neutral
+Texas,negative
+Washington,neutral
+Hawaii,positive
+Missouri,positive
+California,neutral
+Illinois,neutral
+Illinois,negative
+Massachusetts,neutral
+California,neutral
+Nebraska,positive
+New York,neutral
+Texas,neutral
+California,neutral
+California,neutral
+Florida,neutral
+Michigan,neutral
+New York,neutral
+North Carolina,negative
+California,positive
+Florida,neutral
+Colorado,positive
+Texas,neutral
+Mississippi,neutral
+Texas,neutral
+Texas,positive
+California,neutral
+Ohio,positive
+Virginia,negative
+Tennessee,neutral
+California,negative
+Oregon,neutral
+Virginia,neutral
+South Carolina,positive
+Virginia,negative
+New York,neutral
+New York,negative
+California,positive
+Wisconsin,positive
+Michigan,negative
+Pennsylvania,neutral
+Georgia,negative
+Kansas,neutral
+Illinois,neutral
+Arizona,neutral
+Florida,neutral
+Florida,negative
+California,neutral
+Florida,neutral
+Vermont,neutral
+Texas,neutral
+Florida,neutral
+California,positive
+Pennsylvania,positive
+Vermont,neutral
